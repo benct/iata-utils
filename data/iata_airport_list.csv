@@ -1267,6 +1267,7 @@ BZR^Beziers^^FR^^^BZR^Vias^0775^A
 BZT^Brazoria^TX^US^2^^BZT^Eagle Air Park^^A
 BZU^Buta^^CD^2^^BZU^Zega^^A
 BZV^Brazzaville^^CG^^^BZV^Maya-Maya^0776^A
+BZX^Bazhong^^CN^^^BZX^Enyang^^A
 BZY^Balti^^MD^^^BZY^International^^A
 BZZ^Brize Norton^^GB^^^BZZ^RAF Station^^A
 CAA^Catacamas^^HN^^^CAA^El Aguacate^0778^A
@@ -1485,6 +1486,7 @@ CHZ^Chiloquin^OR^US^4^^CHZ^State^0906^A
 CIC^Chico^CA^US^4^^CIC^Municipal^0909^A
 CID^Cedar Rapids^IA^US^2^^CID^The Eastern Iowa^0910^A
 CIE^Collie^WA^AU^4^^CIE^Collie^^A
+CIF^Chifeng^^CN^^^AEQ^Ar Horqin^^A
 CIF^Chifeng^^CN^^^CIF^Yulong^0911^A
 CIG^Craig^CO^US^3^^CIG^Craig-Moffat^0912^A
 CIH^Changzhi^^CN^^^CIH^Wangcun^^A
@@ -1579,7 +1581,7 @@ CMC^Camocim^CE^BR^1^A^CMC^Camocim^^A
 CMD^Cootamundra^NS^AU^2^^CMD^Cootamundra^0965^A
 CME^Ciudad del Carmen^^MX^1^^CME^International^0966^A
 CMF^Chambery/Aix-les-Bains^^FR^^^CMF^Chambery/Aix-les-Bains^0967^A
-CMF^Chambery/Aix-les-Bains^^FR^^^CYY^Sq Paul Vidal B.S.^^B
+CMF^Chambery/Aix-les-Bains^^FR^^^CYY^Sq. Paul Vidal Bus St.^^B
 CMG^Corumba^MS^BR^2^^CMG^International^^A
 CMH^Columbus^OH^US^1^^CMH^John Glenn Intl^0969^A
 CMH^Columbus^OH^US^1^^CMH^Metropolitan Area^^C
@@ -2259,7 +2261,7 @@ EBN^Ebadon Island^^MH^^^EBN^Ebadon Island^^A
 EBO^Ebon Island^^MH^^^EBO^Ebon Island^^A
 EBS^Webster City^IA^US^2^^EBS^Municipal^^A
 EBU^St-Etienne^^FR^^^EBU^Boutheon^1344^A
-EBV^Saint-Etienne^^FR^^^EBV^Saint-Etienne Bus St.^^B
+EBV^Saint-Etienne^^FR^^^EBV^Bus Station^^B
 EBW^Ebolowa^^CM^^^EBW^Ebolowa^1345^A
 ECA^East Tawas^MI^US^1^^ECA^Iosco County^^A
 ECC^East Coast Cities^NY^US^1^^ECC^Off-line Point^^O
@@ -2395,7 +2397,7 @@ ENT^Enewetak Island^^MH^^^ENT^Enewetak Island^^A
 ENU^Enugu^^NG^^^ENU^Akanu Ibiam Intl^1429^A
 ENV^Wendover^UT^US^3^^ENV^Wendover^^A
 ENW^Kenosha^WI^US^2^^ENW^Regional^1430^A
-ENY^Yan'an^^CN^^^ENY^Ershilipu^1431^A
+ENY^Yan'an^050^CN^^^ENY^Nanniwan^^A
 EOI^Eday^^GB^^^EOI^Eday^1432^A
 EOK^Keokuk^IA^US^2^^EOK^Municipal^1433^A
 EOR^El Dorado^^VE^^^EOR^El Dorado^1434^A
@@ -2971,7 +2973,7 @@ GNG^Gooding^ID^US^3^^GNG^Municipal^1775^A
 GNI^Lyudao (Green Island)^^TW^^^GNI^Lyudao (Green Island)^^A
 GNM^Guanambi^BA^BR^1^A^GNM^Guanambi^1776^A
 GNN^Ginir^^ET^^^GNN^Ginir^1777^A
-GNO^Grenoble^38^FR^^^GNO^Routiere Grenoble B.S^^B
+GNO^Grenoble^38^FR^^^GNO^Routiere Bus Station^^B
 GNR^General Roca^RN^AR^^^GNR^Dr. Arturo U. Illia^1778^A
 GNS^Gunung Sitoli^^ID^1^^GNS^Binaka^^A
 GNT^Grants^NM^US^3^^GNT^Grants-Milan Municipal^^A
@@ -4557,7 +4559,7 @@ LAX^Los Angeles^CA^US^4^^JLX^Union Stn Annex H/P^^H
 LAX^Los Angeles^CA^US^4^^JWC^Warner Cntr Plaza H/P^^H
 LAX^Los Angeles^CA^US^4^^LAX^International^2710^A
 LAX^Los Angeles^CA^US^4^^LAX^Metropolitan Area^^C
-LAX^Los Angeles^CA^US^4^^ONT^International^3713^A
+LAX^Los Angeles^CA^US^4^^ONT^Ontario International^3713^A
 LAX^Los Angeles^CA^US^4^^QLO^Ferry Port^^P
 LAX^Los Angeles^CA^US^4^^VNY^Van Nuys^5319^A
 LAX^Los Angeles^CA^US^4^^WHP^Whiteman^^A
@@ -5351,6 +5353,7 @@ MKC^Kansas City^MO^US^2^^MCI^International^3033^A
 MKC^Kansas City^MO^US^2^^MKC^C.B. Wheeler Downtown^3172^A
 MKC^Kansas City^MO^US^2^^MKC^Metropolitan Area^^C
 MKC^Kansas City^MO^US^2^^OJC^Johnson Co Executive^3667^A
+MKD^Macon^^FR^^^MKD^Bus Station^^B
 MKE^Milwaukee^WI^US^2^^MKE^General Mitchell Intl^3174^A
 MKE^Milwaukee^WI^US^2^^MKE^Metropolitan Area^^C
 MKE^Milwaukee^WI^US^2^^MWC^Lawrence J Timmerman^^A
@@ -6438,7 +6441,7 @@ OUT^Bousso^^TD^^^OUT^Bousso^3783^A
 OUU^Ouanga^^GA^^^OUU^Ouanga^3784^A
 OUZ^Zouerate^^MR^^^OUZ^Tazadit^3785^A
 OVA^Bekily^^MG^^^OVA^Bekily^3786^A
-OVB^Novosibirsk^^RU^5^^OVB^Tolmachevo^3787^A
+OVB^Novosibirsk^^RU^6^^OVB^Tolmachevo^3787^A
 OVD^Asturias^^ES^1^^OVD^Asturias^3788^A
 OVE^Oroville^CA^US^4^^OVE^Municipal^3789^A
 OVG^Overberg^^ZA^^^OVG^AFB^^A
@@ -7361,8 +7364,6 @@ QNT^Niteroi^RJ^BR^1^^QNT^Off-line Point^^O
 QNU^Nuoro^^IT^^^QNU^Off-line Point^^O
 QNV^Nova Iguacu^RJ^BR^1^^QNV^Off-line Point^^O
 QNW^Nawashahr^^IN^^^QNW^Off-line Point^^O
-QNX^Macon^^FR^^^MKD^Bus Station^^B
-QNX^Macon^^FR^^^QNX^Off-line Point^^O
 QNZ^Nara^^JP^^^QNZ^Off-line Point^^O
 QOA^Mococa^SP^BR^1^^QOA^Off-line Point^^O
 QOB^Ansbach^^DE^^^QOB^Railway Station^^R
@@ -7567,7 +7568,7 @@ QWW^Navalmoral de la Mata^^ES^1^^QWW^Off-line Point^^O
 QWX^Merida^^ES^1^^EXA^Bus Station^^B
 QWX^Merida^^ES^1^^QWX^Railway Station^^R
 QWZ^Best^^NL^^^QWZ^Bus Station^^B
-QXB^Aix-en-Provence^^FR^^^AIX^Daix en Provence B.S.^^B
+QXB^Aix-en-Provence^^FR^^^AIX^Daix Provence Bus St.^^B
 QXB^Aix-en-Provence^^FR^^^QXB^TGV Railway Station^^R
 QXC^Caxias^MA^BR^1^A^QXC^Off-line Point^^O
 QXE^Sora^^IT^^^QXE^Off-line Point^^O
@@ -8655,7 +8656,7 @@ SXA^Sialum^^PG^1^^SXA^Sialum^^A
 SXB^Strasbourg^^FR^^^SXB^Entzheim^4772^A
 SXB^Strasbourg^^FR^^^XER^Bus Station^^B
 SXB^Strasbourg^^FR^^^XWG^Railway Station^^R
-SXC^St-Chamond^^FR^^^SXC^Saint-Chamond Bus St.^^B
+SXC^St-Chamond^^FR^^^SXC^Bus Station^^B
 SXD^Sophia Antipolis^^FR^^^SXD^Off-line Point^^O
 SXE^Sale^VI^AU^2^^SXE^West Sale^4773^A
 SXG^Senanga^^ZM^^^SXG^Senanga^4775^A
@@ -8741,7 +8742,7 @@ TAB^Tobago^^TT^^^TAB^A.N.R. Robinson Intl^4803^A
 TAC^Tacloban^^PH^^^TAC^D.Z. Romualdez^4804^A
 TAD^Trinidad^CO^US^3^^TAD^Perry Stokes^4805^A
 TAE^Daegu^^KR^^^TAE^International^4806^A
-TAG^Tagbilaran^^PH^^^TAG^Tagbilaran^4807^A
+TAG^Panglao^07^PH^^^TAG^Bohol International^^A
 TAH^Tanna Island^^VU^^^TAH^Whitegrass^4808^A
 TAI^Taizz^^YE^^^TAI^International^4809^A
 TAK^Takamatsu^^JP^^^TAK^Takamatsu^4811^A
@@ -9555,6 +9556,7 @@ VEV^Barakoma^^SB^^^VEV^Barakoma^5273^A
 VEX^Tioga^ND^US^2^^VEX^Municipal^^A
 VEY^Vestmannaeyjar^^IS^^^VEY^Vestmannaeyjar^5274^A
 VFA^Victoria Falls^^ZW^^^VFA^International^5275^A
+VFC^Villefranche-sur-Saone^^FR^^^VFC^Bus Station^^B
 VGA^Vijayawada^AP^IN^^^VGA^Vijayawada^5276^A
 VGD^Vologda^^RU^2^^VGD^Vologda^^A
 VGO^Vigo^^ES^1^^VBT^Bus Station^^B
@@ -9631,7 +9633,7 @@ VNR^Vanrook Station^QL^AU^2^B^VNR^Vanrook Station^5316^A
 VNS^Varanasi^UP^IN^^^VNS^Lal Bahadur Shastri^5317^A
 VNT^Ventspils^^LV^^^VNT^Ventspils^^A
 VNX^Vilankulos^^MZ^^^VNX^Vilankulos^5318^A
-VOG^Volgograd^^RU^2^^VOG^Gumrak^5320^A
+VOG^Volgograd^^RU^3^^VOG^Gumrak^5320^A
 VOH^Vohimarina^^MG^^^VOH^Vohimarina^5321^A
 VOI^Voinjama^^LR^^^VOI^Tenebu^5322^A
 VOK^Camp Douglas^WI^US^2^^VOK^Volk Field^^A
@@ -9691,6 +9693,7 @@ VXE^Sao Vicente Island^^CV^^^VXE^Sao Pedro^5356^A
 VXO^Vaxjo^^SE^^^VXO^Smaland^5357^A
 VYD^Vryheid^^ZA^^^VYD^Vryheid^5358^A
 VYI^Vilyuysk^^RU^8^^VYI^Vilyuysk^^A
+VYN^Vienne^^FR^^^VYN^Multimodale Bus St.^^B
 VYS^Peru^IL^US^2^^VYS^Illinois Valley Rgnl^^A
 WAA^Wales^AK^US^5^^WAA^Wales^5359^A
 WAB^Wabag^^PG^1^^WAB^Wabag^5360^A
@@ -10346,12 +10349,8 @@ XVB^Stafford^^GB^^^XVB^Railway Station^^R
 XVC^Crewe^^GB^^^XVC^Railway Station^^R
 XVD^Vendome^^FR^^^XVD^Off-line Point^^O
 XVE^Versailles^^FR^^^XVE^Off-line Point^^O
-XVF^Villefranche-sur-Saone^^FR^^^VFC^Bus Station^^B
-XVF^Villefranche-sur-Saone^^FR^^^XVF^Off-line Point^^O
 XVG^Darlington^^GB^^^XVG^Railway Station^^R
 XVH^Peterborough^^GB^^^XVH^Railway Station^^R
-XVI^Vienne^^FR^^^VYN^Multimodale Bus St.^^B
-XVI^Vienne^^FR^^^XVI^Off-line Point^^O
 XVJ^Stevenage^^GB^^^XVJ^Railway Station^^R
 XVK^Voss^^NO^^^XVK^Railway Station^^R
 XVL^Vinh Long^^VN^^^XVL^Vinh Long^5564^A
