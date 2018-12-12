@@ -10,7 +10,7 @@ Various [IATA](https://www.iata.org/) files, mappings and utilities.
 ### iata_tz.csv
 Mapping of IATA location identifiers to [IANA](https://www.iana.org/time-zones) timezones.
 
-Example: `LON^Europe/London` `LHR^America/New_York` `JFK^America/New_York`
+Example: `LON^Europe/London` `LHR^Europe/London` `JFK^America/New_York`
 
 ### iata_ssim_tz.csv
 Mapping of the IATA's [SSIM](https://www.iata.org/publications/store/Pages/standard-schedules-information.aspx) timezones to the
