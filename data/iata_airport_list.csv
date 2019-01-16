@@ -1460,7 +1460,6 @@ CHG^Chaoyang (Liaoning)^^CN^^^CHG^Chaoyang^^A
 CHH^Chachapoyas^^PE^^^CHH^Chachapoyas^0895^A
 CHI^Chicago^IL^US^2^^CHI^Metropolitan Area^^C
 CHI^Chicago^IL^US^2^^DPA^DuPage^^A
-CHI^Chicago^IL^US^2^^GYY^Gary/Chicago Intl^^A
 CHI^Chicago^IL^US^2^^MDW^Midway International^3067^A
 CHI^Chicago^IL^US^2^^ORD^O'Hare International^3729^A
 CHI^Chicago^IL^US^2^^PWK^Executive^^A
@@ -2245,6 +2244,7 @@ EAP^Mulhouse/Basel^^FR^^^EAP^Metropolitan Area^^C
 EAP^Mulhouse/Basel^^FR^^^MLH^EuroAirport French  FR^3201^A
 EAR^Kearney^NE^US^2^^EAR^Regional^1335^A
 EAS^San Sebastian^^ES^1^^EAS^Airport^1336^A
+EAS^San Sebastian^^ES^1^^FDD^Bus Station^^B
 EAS^San Sebastian^^ES^1^^YJH^Railway Station^^R
 EAT^Wenatchee^WA^US^4^^EAT^Pangborn Memorial^1337^A
 EAU^Eau Claire^WI^US^2^^EAU^Chippewa Valley Rgnl^^A
@@ -2261,7 +2261,7 @@ EBN^Ebadon Island^^MH^^^EBN^Ebadon Island^^A
 EBO^Ebon Island^^MH^^^EBO^Ebon Island^^A
 EBS^Webster City^IA^US^2^^EBS^Municipal^^A
 EBU^St-Etienne^^FR^^^EBU^Boutheon^1344^A
-EBV^Saint-Etienne^^FR^^^EBV^Bus Station^^B
+EBU^St-Etienne^^FR^^^EBV^Bus Station^^B
 EBW^Ebolowa^^CM^^^EBW^Ebolowa^1345^A
 ECA^East Tawas^MI^US^1^^ECA^Iosco County^^A
 ECC^East Coast Cities^NY^US^1^^ECC^Off-line Point^^O
@@ -7568,7 +7568,6 @@ QWW^Navalmoral de la Mata^^ES^1^^QWW^Off-line Point^^O
 QWX^Merida^^ES^1^^EXA^Bus Station^^B
 QWX^Merida^^ES^1^^QWX^Railway Station^^R
 QWZ^Best^^NL^^^QWZ^Bus Station^^B
-QXB^Aix-en-Provence^^FR^^^AIX^Daix Provence Bus St.^^B
 QXB^Aix-en-Provence^^FR^^^QXB^TGV Railway Station^^R
 QXC^Caxias^MA^BR^1^A^QXC^Off-line Point^^O
 QXE^Sora^^IT^^^QXE^Off-line Point^^O
@@ -8112,6 +8111,7 @@ SDP^Sand Point^AK^US^5^^SDP^Sand Point^4420^A
 SDQ^Santo Domingo^^DO^^^JBQ^Dr.Joaquin Balaguer^^A
 SDQ^Santo Domingo^^DO^^^SDQ^Las Americas Intl^4421^A
 SDQ^Santo Domingo^^DO^^^SDQ^Metropolitan Area^^C
+SDR^Santander^^ES^1^^DHS^Bus Station^^B
 SDR^Santander^^ES^1^^SDR^Airport^4422^A
 SDR^Santander^^ES^1^^YJL^Railway Station^^R
 SDS^Sado^^JP^^^SDS^Sado^4423^A
