@@ -41,8 +41,8 @@ Maintained from time to time by [Ben Tomlin](https://github.com/benct). PRs are 
 
 Only update the imported data files by copying in changes from their respective sources (use curl commands below in root folder). Update generated files by running the application.
 
-- `curl -o data/iata_airport_list.csv https://github.com/opentraveldata/opentraveldata/blob/master/data/IATA/archives/iata_airport_list_<latest>.csv`
-- `curl -o data/optd_por_public.csv https://raw.githubusercontent.com/opentraveldata/opentraveldata/master/opentrveldata/optd_por_public.csv`
+- `curl -o data/iata_airport_list.csv https://raw.githubusercontent.com/opentraveldata/opentraveldata/master/data/IATA/archives/iata_airport_list_<insert_latest_date>.csv`
+- `curl -o data/optd_por_public.csv https://raw.githubusercontent.com/opentraveldata/opentraveldata/master/opentraveldata/optd_por_public.csv`
 
 ## Sources
 - https://www.iata.org/publications/Pages/code-search.aspx
