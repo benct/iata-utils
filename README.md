@@ -8,15 +8,21 @@ Various [IATA](https://www.iata.org/) files, mappings and utilities.
 ## Generated data
 
 ### iata_tz.csv
-Mapping of IATA location identifiers to [IANA](https://www.iana.org/time-zones) timezones.
-
-Example: `LON^Europe/London` `LHR^Europe/London` `JFK^America/New_York`
+Mapping of IATA location identifiers to [IANA](https://www.iana.org/time-zones) timezones. Example:
+```
+LON^Europe/London
+LHR^Europe/London
+JFK^America/New_York
+```
 
 ### iata_ssim_tz.csv
 Mapping of the IATA's [SSIM](https://www.iata.org/publications/store/Pages/standard-schedules-information.aspx) timezones to the
 more common [IANA](https://www.iana.org/time-zones) timezones.
-
-Example: `GB^Europe/London` `US1^America/New_York` `US2^America/Chicago`
+```
+GB^Europe/London
+US1^America/New_York
+US2^America/Chicago
+```
 
 ## Imported data
 
