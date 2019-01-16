@@ -108,6 +108,7 @@ AEL^America/Chicago
 AEM^Asia/Vladivostok
 AEO^Africa/Nouakchott
 AEP^America/Argentina/Buenos_Aires
+AEQ^Asia/Shanghai
 AER^Europe/Moscow
 AES^Europe/Oslo
 AET^America/Anchorage
@@ -191,7 +192,6 @@ AIT^Pacific/Rarotonga
 AIU^Pacific/Rarotonga
 AIV^America/Chicago
 AIW^Africa/Windhoek
-AIX^Europe/Paris
 AIZ^America/Chicago
 AJA^Europe/Paris
 AJF^Asia/Riyadh
@@ -514,7 +514,7 @@ AYC^America/Bogota
 AYD^Australia/Darwin
 AYG^America/Bogota
 AYI^America/Bogota
-AYK^Asia/Almaty
+AYK^Asia/Qostanay
 AYL^Australia/Darwin
 AYM^Asia/Dubai
 AYN^Asia/Shanghai
@@ -1132,7 +1132,7 @@ BXU^Asia/Manila
 BXV^Atlantic/Reykjavik
 BXW^Asia/Jakarta
 BXX^Africa/Mogadishu
-BXY^Asia/Almaty
+BXY^Asia/Qostanay
 BXZ^Pacific/Port_Moresby
 BYA^America/Anchorage
 BYB^Asia/Muscat
@@ -1178,6 +1178,7 @@ BZR^Europe/Paris
 BZT^America/Chicago
 BZU^Africa/Lubumbashi
 BZV^Africa/Brazzaville
+BZX^Asia/Shanghai
 BZY^Europe/Chisinau
 BZZ^Europe/London
 CAA^America/Tegucigalpa
@@ -1858,6 +1859,7 @@ DHM^Asia/Kolkata
 DHN^America/Chicago
 DHO^America/Fort_Nelson
 DHR^Europe/Amsterdam
+DHS^Europe/Madrid
 DHT^America/Chicago
 DHU^Asia/Shanghai
 DIA^Asia/Qatar
@@ -2395,6 +2397,7 @@ FCO^Europe/Rome
 FCS^America/Denver
 FCT^America/Los_Angeles
 FCY^America/Chicago
+FDD^Europe/Madrid
 FDE^Europe/Oslo
 FDF^America/Martinique
 FDH^Europe/Berlin
@@ -2963,7 +2966,6 @@ GYP^Australia/Brisbane
 GYR^America/Phoenix
 GYS^Asia/Shanghai
 GYU^Asia/Shanghai
-GYY^America/Chicago
 GZA^Asia/Gaza
 GZI^Asia/Kabul
 GZM^Europe/Malta
@@ -4200,7 +4202,7 @@ KSJ^Europe/Athens
 KSK^Europe/Stockholm
 KSL^Africa/Khartoum
 KSM^America/Nome
-KSN^Asia/Qyzylorda
+KSN^Asia/Qostanay
 KSO^Europe/Athens
 KSP^Pacific/Port_Moresby
 KSQ^Asia/Samarkand
@@ -8212,7 +8214,7 @@ SWX^Africa/Gaborone
 SWY^Asia/Kuala_Lumpur
 SXA^Pacific/Port_Moresby
 SXB^Europe/Paris
-SXC^Europe/Paris
+SXC^America/Los_Angeles
 SXD^Europe/Paris
 SXE^Australia/Melbourne
 SXF^Europe/Berlin
