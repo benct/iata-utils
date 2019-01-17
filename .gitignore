@@ -5,4 +5,5 @@
 *.ipr
 *.swp
 *.bak
+node_modules
 build
