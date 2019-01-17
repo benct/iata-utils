@@ -1,0 +1,55 @@
+{
+  "name": "iata-utils",
+  "version": "1.0.0",
+  "description": "Various IATA utilities",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf ./dist/bundle.js",
+    "lint": "./node_modules/.bin/eslint *.js \"src/**/*.js\" \"src/**/*.jsx\"",
+    "lint-fix": "./node_modules/.bin/eslint --fix *.js \"src/**/*.js\" \"src/**/*.jsx\"",
+    "dev": "webpack-dev-server --open --inline --history-api-fallback --config webpack.dev.js",
+    "build": "webpack --progress --colors --config webpack.dev.js",
+    "build-prod": "export NODE_ENV=production && webpack -p --progress --colors --config webpack.prod.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/benct/iata-utils.git"
+  },
+  "keywords": [
+    "iata",
+    "optd",
+    "util",
+    "utilities",
+    "search",
+    "ben",
+    "tomlin"
+  ],
+  "author": "Ben Christopher Tomlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/benct/iata-utils/issues"
+  },
+  "homepage": "https://github.com/benct/iata-utils#readme",
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/polyfill": "^7.2.5",
+    "@babel/preset-env": "^7.2.3",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "eslint": "^5.12.0",
+    "eslint-config-prettier": "^3.3.0",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.3",
+    "prettier": "^1.15.3",
+    "webpack": "^4.28.4",
+    "webpack-cli": "^3.2.1",
+    "webpack-dev-server": "^3.1.14",
+    "webpack-merge": "^4.2.1"
+  },
+  "dependencies": {
+    "date-fns": "^2.0.0-alpha.27",
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
