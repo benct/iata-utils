@@ -1,0 +1,37 @@
+{
+  "plugins": [
+    "react",
+    "prettier"
+  ],
+  "extends": [
+    "eslint:recommended",
+    "plugin:react/recommended",
+    "plugin:prettier/recommended"
+  ],
+  "settings": {
+    "react": {
+      "version": "16.7"
+    }
+  },
+  "rules": {
+    "prettier/prettier": "error"
+  },
+  "parserOptions": {
+    "sourceType": "module",
+    "ecmaFeatures": {
+      "jsx": true,
+      "modules": true
+    }
+  },
+  "globals": {
+    "module": true,
+    "process": true,
+    "require": true,
+    "__dirname": true,
+    "localStorage": true,
+    "window": true,
+    "document": true,
+    "console": true,
+    "Promise": true
+  }
+}

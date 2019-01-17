@@ -1,11 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const App = () => {
-    return (
-        <div>react test</div>
-    );
-};
+const App = () => <div>react test</div>;
 
 ReactDOM.render(<App />, document.getElementById('app-root'));
 
