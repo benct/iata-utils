@@ -8,7 +8,7 @@
     "lint": "./node_modules/.bin/eslint *.js \"src/*.js\" \"src/*.jsx\"",
     "lint-fix": "./node_modules/.bin/eslint --fix *.js \"src/*.js\" \"src/*.jsx\"",
     "dev": "webpack-dev-server --open --inline --history-api-fallback --config webpack.dev.js",
-    "build": "webpack --progress --colors --config webpack.dev.js",
+    "build-dev": "webpack --progress --colors --config webpack.dev.js",
     "build-prod": "export NODE_ENV=production && webpack -p --progress --colors --config webpack.prod.js"
   },
   "repository": {
@@ -29,7 +29,7 @@
   "bugs": {
     "url": "https://github.com/benct/iata-utils/issues"
   },
-  "homepage": "https://github.com/benct/iata-utils#readme",
+  "homepage": "https://benct.github.io/iata-utils",
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/polyfill": "^7.2.5",
