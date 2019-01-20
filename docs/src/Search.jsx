@@ -42,20 +42,21 @@ export default class Search extends React.Component {
                 <div className="app-result-margin">
                     <small>IATA</small> <strong>{data.iataCode}</strong> | <small>ICAO</small> <strong>{data.icaoCode || '-'}</strong>
                 </div>
-                <code>
-                    {data.cityName} ({data.cityCode})
-                </code>
-                <br />
-                <code>
-                    {data.area} ({data.areaCode}), {data.country} ({data.countryCode}), {data.continent}
-                </code>
-                <br />
-                <code>IANA Timezone: {data.timezone}</code>
-                <br />
-                <code className="app-result-margin">
-                    {data.latitude}, {data.longitude}
-                </code>
-                <br />
+                <div className="app-result-margin">
+                    <code>
+                        {data.cityName} ({data.cityCode})
+                    </code>
+                    <br />
+                    <code>
+                        {data.area} ({data.areaCode}), {data.country} ({data.countryCode}), {data.continent}
+                    </code>
+                    <br />
+                    <code>{data.timezone}</code>
+                    <br />
+                    <code>
+                        {data.latitude}, {data.longitude}
+                    </code>
+                </div>
                 <a href={data.wiki}>{data.wiki}</a>
             </div>
         );
