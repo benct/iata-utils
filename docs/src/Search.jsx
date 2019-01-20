@@ -39,22 +39,22 @@ export default class Search extends React.Component {
                 <h3>
                     {data.name}&nbsp;&nbsp;<small>{data.type}</small>
                 </h3>
-                <div className="app-result-codes">
-                    <small>IATA</small> <strong>{data.iataCode}</strong> | <small>ICAO</small> <strong>{data.icaoCode}</strong>
+                <div className="app-result-margin">
+                    <small>IATA</small> <strong>{data.iataCode}</strong> | <small>ICAO</small> <strong>{data.icaoCode || '-'}</strong>
                 </div>
-                <span>
+                <code>
                     {data.cityName} ({data.cityCode})
-                </span>
+                </code>
                 <br />
-                <span>
+                <code>
                     {data.area} ({data.areaCode}), {data.country} ({data.countryCode}), {data.continent}
-                </span>
+                </code>
                 <br />
-                <span>IANA Timezone: {data.timezone}</span>
+                <code>IANA Timezone: {data.timezone}</code>
                 <br />
-                <span>
-                    Coordinates: {data.latitude}, {data.longitude}
-                </span>
+                <code className="app-result-margin">
+                    {data.latitude}, {data.longitude}
+                </code>
                 <br />
                 <a href={data.wiki}>{data.wiki}</a>
             </div>
@@ -82,7 +82,7 @@ export default class Search extends React.Component {
                         <i />
                     </span>
                 </div>
-                {this.state.data.length ? this.state.data.map(Search.renderItem) : <span>No results</span>}
+                {this.state.data.length ? this.state.data.map(Search.renderItem) : null}
                 <hr />
             </>
         );
