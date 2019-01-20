@@ -27,7 +27,7 @@ export default class Search extends React.Component {
     }
 
     search(query) {
-        return fetch(`https://tomlin.no/api?service=iata&action=search&query=${query}`)
+        return fetch(`https://tomlin.no/api/?service=iata&action=search&query=${query}`)
             .then(response => (response.ok ? response.json() : Promise.reject(response.statusText)))
             .then(response => this.setState({ data: response }))
             .catch(error => console.log(error)); // eslint-disable-line
@@ -50,6 +50,7 @@ export default class Search extends React.Component {
                 </span>
                 <br />
                 <span>IANA Timezone: {data.timezone}</span>
+                <br />
                 <span>
                     Coordinates: {data.latitude}, {data.longitude}
                 </span>
@@ -61,11 +62,12 @@ export default class Search extends React.Component {
 
     render() {
         return (
-            <div>
-                <h1>IATA Location Search</h1>
-                <div>
+            <>
+                <div className="app-input">
                     <input
+                        className="app-input-effect"
                         type="text"
+                        placeholder="3-letter IATA Code"
                         name="query"
                         aria-label="Search"
                         maxLength="3"
@@ -73,12 +75,13 @@ export default class Search extends React.Component {
                         onClick={event => event.target.select()}
                         onChange={this.handleChange.bind(this)}
                         onKeyPress={this.handleKey.bind(this)}
-                        style={{ textAlign: 'center' }}
                     />
-                    <button onClick={this.handleSearch.bind(this)}>Search</button>
+                    <span className="focus-border">
+                        <i />
+                    </span>
                 </div>
-                <div>{this.state.data.length ? this.state.data.map(Search.renderItem) : <span>No results</span>}</div>
-            </div>
+                {this.state.data.length ? this.state.data.map(Search.renderItem) : <span>No results</span>}
+            </>
         );
     }
 }

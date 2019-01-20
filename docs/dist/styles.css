@@ -1,3 +1,43 @@
 .app-container {
     color: #002080;
 }
+
+:focus {
+    outline: none;
+}
+
+.app-input {
+    margin: 25px 0;
+    position: relative;
+}
+
+.app-input-effect {
+    width: 100%;
+    border: 1px solid #ccc;
+    padding: 7px 14px 9px;
+    transition: 0.4s;
+    box-sizing: border-box;
+    text-transform: uppercase;
+}
+.app-input-effect ~ .focus-border:before,
+.app-input-effect ~ .focus-border:after {
+    content: ""; position: absolute; top: 0; left: 0; width: 0; height: 2px; background-color: #4caf50; transition: 0.3s;
+}
+.app-input-effect ~ .focus-border:after {
+    top: auto; bottom: 0; left: auto; right: 0;
+}
+.app-input-effect ~ .focus-border i:before,
+.app-input-effect ~ .focus-border i:after {
+    content: ""; position: absolute; top: 0; left: 0; width: 2px; height: 0; background-color: #4caf50; transition: 0.4s;
+}
+.app-input-effect ~ .focus-border i:after {
+    left: auto; right: 0; top: auto; bottom: 0;
+}
+.app-input-effect:focus ~ .focus-border:before,
+.app-input-effect:focus ~ .focus-border:after {
+    width: 100%; transition: 0.3s;
+}
+.app-input-effect:focus ~ .focus-border i:before,
+.app-input-effect:focus ~ .focus-border i:after {
+    height: 100%; transition: 0.4s;
+}
