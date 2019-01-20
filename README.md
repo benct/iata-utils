@@ -5,6 +5,13 @@ Various [IATA](https://www.iata.org/) files, mappings and utilities.
 [![GitHub licence](https://img.shields.io/github/license/benct/iata-utils.svg)](https://github.com/benct/iata-utils/blob/master/LICENCE)
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/benct/iata-utils.svg)](https://github.com/benct/iata-utils)
 
+
+## IATA location search
+
+https://benct.github.io/iata-utils/
+
+Follow the link above or see the docs folder for the live IATA location search tool.
+
 ## Generated data
 
 ### iata_tz.csv
