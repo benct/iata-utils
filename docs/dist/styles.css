@@ -45,6 +45,7 @@
 .app-result {
     margin-bottom: 20px;
 }
-.app-result h3 {
-    margin-bottom: 10px;
+.app-result h3,
+.app-result-codes {
+    margin-bottom: 8px;
 }

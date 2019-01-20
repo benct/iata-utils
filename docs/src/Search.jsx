@@ -36,16 +36,25 @@ export default class Search extends React.Component {
     static renderItem(data, idx) {
         return (
             <div className="app-result" key={`item${idx}`}>
-                <h3>{data.name}</h3>
-                {data.type} | <small>IATA</small> <strong>{data.iataCode}</strong> | <small>ICAO</small> <strong>{data.icaoCode}</strong>
+                <h3>
+                    {data.name}&nbsp;&nbsp;<small>{data.type}</small>
+                </h3>
+                <div className="app-result-codes">
+                    <small>IATA</small> <strong>{data.iataCode}</strong> | <small>ICAO</small> <strong>{data.icaoCode}</strong>
+                </div>
+                <span>
+                    {data.cityName} ({data.cityCode})
+                </span>
                 <br />
-                {data.cityName} ({data.cityCode})
+                <span>
+                    {data.area} ({data.areaCode}), {data.country} ({data.countryCode}), {data.continent}
+                </span>
                 <br />
-                {data.area} ({data.areaCode}), {data.country} ({data.countryCode}), {data.continent}
+                <span>IANA Timezone: {data.timezone}</span>
                 <br />
-                IANA Timezone: {data.timezone}
-                <br />
-                Coordinates: {data.latitude}, {data.longitude}
+                <span>
+                    Coordinates: {data.latitude}, {data.longitude}
+                </span>
                 <br />
                 <a href={data.wiki}>{data.wiki}</a>
             </div>
