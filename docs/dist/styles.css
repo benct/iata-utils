@@ -1,6 +1,5 @@
 .app-container {
-    color: #002080;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 :focus {
@@ -8,7 +7,7 @@
 }
 
 .app-input {
-    margin: 25px 0;
+    margin: 8px 0 24px;
     position: relative;
 }
 
@@ -41,4 +40,11 @@
 .app-input-effect:focus ~ .focus-border i:before,
 .app-input-effect:focus ~ .focus-border i:after {
     height: 100%; transition: 0.4s;
+}
+
+.app-result {
+    margin-bottom: 20px;
+}
+.app-result h3 {
+    margin-bottom: 10px;
 }
