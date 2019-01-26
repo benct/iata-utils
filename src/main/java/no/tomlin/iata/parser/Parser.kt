@@ -1,5 +1,6 @@
 package no.tomlin.iata.parser
 
+import no.tomlin.iata.data.AirlineIdentifier
 import no.tomlin.iata.data.IataLocationIdentifier
 import no.tomlin.iata.data.LocationType.UNSUPPORTED
 import no.tomlin.iata.data.OptdLocationIdentifier
@@ -9,6 +10,7 @@ object Parser {
 
     private const val IATA_AIRPORT_LIST = "data/iata_airport_list.csv"
     private const val OPTD_AIRPORT_LIST = "data/optd_por_public.csv"
+    private const val OPTD_AIRLINE_LIST = "data/optd_airline_best_known_so_far.csv"
     private const val DEFAULT_SEPARATOR = '^'
 
     fun iataLocations(): Map<String, List<IataLocationIdentifier>> {
@@ -32,6 +34,8 @@ object Parser {
 
     fun parseOptdLocations(): List<OptdLocationIdentifier> = parse(OPTD_AIRPORT_LIST) { OptdLocationIdentifier(it) }
             .filter { it.locationType != UNSUPPORTED }
+
+    fun parseAirlines(): List<AirlineIdentifier> = parse(OPTD_AIRLINE_LIST) { AirlineIdentifier(it) }
 
     private fun <T : Any> parse(fileName: String, mapping: (List<String>) -> T): List<T> {
         val errors = mutableListOf<String>()

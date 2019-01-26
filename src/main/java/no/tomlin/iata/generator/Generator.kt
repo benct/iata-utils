@@ -1,5 +1,6 @@
 package no.tomlin.iata.generator
 
+import no.tomlin.iata.data.AirlineIdentifier
 import no.tomlin.iata.data.IataLocationIdentifier
 import no.tomlin.iata.data.OptdLocationIdentifier
 import java.io.File
@@ -8,6 +9,7 @@ object Generator {
 
     private const val IATA_TIMEZONES = "generated/iata_tz.csv"
     private const val IATA_SSIM_TIMEZONES = "generated/iata_ssim_tz.csv"
+    private const val IATA_AIRLINES = "generated/iata_airlines.csv"
     private const val DEFAULT_SEPARATOR = "^"
 
     fun generateTimezones(iataList: List<IataLocationIdentifier>, optdList: List<OptdLocationIdentifier>) {
@@ -33,6 +35,15 @@ object Generator {
                         .groupBy { it.first }
                         .map { pair -> pair.key + DEFAULT_SEPARATOR + pair.value.groupBy { it.second }.maxBy { it.value.size }?.key }
                         .sorted())
+    }
+
+    fun generateAirlines(airlineList: List<AirlineIdentifier>) {
+        write(IATA_AIRLINES, header("iata_code", "icao_code", "name", "alias"),
+                airlineList
+                        .filter { it.iataCode != null && it.iataCode.matches(Regex("[A-Z0-9]{2}")) }
+                        .distinctBy { it.iataCode }
+                        .sortedBy { it.iataCode }
+                        .map { listOf(it.iataCode, it.icaoCode, it.name, it.alias).joinToString(DEFAULT_SEPARATOR) })
     }
 
     private fun header(vararg keys: String) = keys.joinToString(DEFAULT_SEPARATOR)
