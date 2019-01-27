@@ -3,8 +3,9 @@
 https://benct.github.io/iata-utils/
 
 Location data search based on public [point of reference](https://github.com/opentraveldata/opentraveldata/tree/master/opentraveldata) data,
-referenced by an [IATA](https://www.iata.org/) code,
-curated by the [Open Travel Data](https://github.com/opentraveldata/opentraveldata) (OPTD) project.
+referenced by an [IATA](https://www.iata.org/) code. Airline data search based on
+[best known](https://github.com/opentraveldata/opentraveldata/tree/master/opentraveldata) information on airlines.
+Data curated by the [Open Travel Data](https://github.com/opentraveldata/opentraveldata) (OPTD) project.
 
 #### IATA utilities project
 
