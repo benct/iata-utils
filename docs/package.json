@@ -47,8 +47,6 @@
     "webpack-merge": "^4.2.1"
   },
   "dependencies": {
-    "date-fns": "^2.0.0-alpha.27",
-    "prop-types": "^15.6.2",
     "react": "^16.7.0",
     "react-dom": "^16.7.0"
   }
