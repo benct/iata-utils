@@ -6,11 +6,11 @@ Various [IATA](https://www.iata.org/) files, mappings and utilities.
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/benct/iata-utils.svg)](https://github.com/benct/iata-utils)
 
 
-## IATA location search
+## IATA location and airline search
 
 https://benct.github.io/iata-utils/
 
-Follow the link above or see the docs folder for the live IATA location search tool.
+Follow the link above or see the docs folder for the live IATA location and airline search tool.
 
 ## Generated data
 
