@@ -49,3 +49,9 @@
 .app-result-margin {
     margin-bottom: 8px;
 }
+
+.app-spinner {
+    position: absolute;
+    right: 0;
+    top: 0;
+}

@@ -7,6 +7,7 @@ export default class Search extends React.Component {
         this.state = {
             query: '',
             data: [],
+            loading: false,
         };
     }
 
@@ -27,11 +28,16 @@ export default class Search extends React.Component {
     }
 
     search(query) {
+        this.setState({ loading: true });
+
         return fetch(`https://tomlin.no/api/?service=iata&action=search&query=${query}`)
             .then(response => (response.ok ? response : Promise.reject(`${response.status}: ${response.statusText}`)))
             .then(response => (response.status === 200 ? response.json() : []))
-            .then(response => this.setState({ data: response }))
-            .catch(error => console.log(error)); // eslint-disable-line
+            .then(response => this.setState({ data: response, loading: false }))
+            .catch(error => {
+                this.setState({ loading: false });
+                console.log(error); // eslint-disable-line
+            });
     }
 
     static renderAirline(data) {
@@ -97,6 +103,31 @@ export default class Search extends React.Component {
             <>
                 <label htmlFor="query">Enter IATA code and press enter</label>
                 <div className="app-input">
+                    {this.state.loading ? (
+                        <svg xmlns="http://www.w3.org/2000/svg" width="30px" height="30px" viewBox="0 0 100 100" className="app-spinner">
+                            <circle
+                                cx="50"
+                                cy="50"
+                                fill="none"
+                                strokeLinecap="round"
+                                r="27"
+                                strokeWidth="7"
+                                stroke="#ff7c81"
+                                strokeDasharray="42.411500823462205 42.411500823462205"
+                                transform="rotate(3.6576 50 50)">
+                                <animateTransform
+                                    attributeName="transform"
+                                    type="rotate"
+                                    calcMode="linear"
+                                    values="0 50 50;360 50 50"
+                                    keyTimes="0;1"
+                                    dur="1s"
+                                    begin="0s"
+                                    repeatCount="indefinite"
+                                />
+                            </circle>
+                        </svg>
+                    ) : null}
                     <input
                         className="app-input-effect"
                         type="text"
