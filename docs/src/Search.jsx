@@ -28,7 +28,8 @@ export default class Search extends React.Component {
 
     search(query) {
         return fetch(`https://tomlin.no/api/?service=iata&action=search&query=${query}`)
-            .then(response => (response.ok ? response.json() : Promise.reject(response.statusText)))
+            .then(response => (response.ok ? response : Promise.reject(`${response.status}: ${response.statusText}`)))
+            .then(response => (response.status === 200 ? response.json() : []))
             .then(response => this.setState({ data: response }))
             .catch(error => console.log(error)); // eslint-disable-line
     }
