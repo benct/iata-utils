@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: IATA Search
 description: Search for location and airlne information by IATA code.
-logo: /iata-utils/dist/plane.png
+logo: /dist/plane.png
