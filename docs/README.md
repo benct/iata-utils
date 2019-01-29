@@ -11,6 +11,13 @@ Data curated by the [Open Travel Data](https://github.com/opentraveldata/opentra
 
 See [root project](https://github.com/benct/iata-utils) for more information and other IATA mappings and data sources.
 
+```
+                  __|__
+                   _|_
+ ___________\/____/ooo\____\/___________
+            /\    \_O_/    /\
+```
+
 ### Disclaimer
 
 This project is not affiliated, associated, authorized, endorsed by, or in any way officially connected with the International Air
