@@ -83,15 +83,28 @@ export default class Search extends React.Component {
         );
     }
 
-    static renderExternalLink(data) {
+    static renderExternalLink(href, text) {
+        return (
+            <a href={href} target="_blank" rel="noopener noreferrer">
+                {text}
+            </a>
+        );
+    }
+
+    static renderLinks(data) {
         const type = data.iataCode.length === 2 ? 'airline' : 'airport';
-        const isWiki = data.wiki && data.wiki !== '';
-        const google = isWiki ? data.wiki : `https://www.google.com/search?q=iata+${type}+${data.iataCode}`;
 
         return (
-            <a href={isWiki ? data.wiki : google} target="_blank" rel="noopener noreferrer">
-                {isWiki ? data.wiki : `Search Google for ${data.iataCode}`}
-            </a>
+            <>
+                {data.wiki && data.wiki !== ''
+                    ? Search.renderExternalLink(data.wiki, data.wiki)
+                    : Search.renderExternalLink(
+                          `https://www.google.com/search?q=iata+${type}+${data.iataCode}`,
+                          `Search Google for ${data.iataCode}`
+                      )}
+                <br />
+                {Search.renderExternalLink(`https://www.google.com/search?q=${type}+"${data.name}"`, `Search Google for ${data.name}`)}
+            </>
         );
     }
 
@@ -105,7 +118,7 @@ export default class Search extends React.Component {
                     <small>IATA</small> <strong>{data.iataCode}</strong> | <small>ICAO</small> <strong>{data.icaoCode || '-'}</strong>
                 </div>
                 {data.iataCode.length === 2 ? Search.renderAirline(data) : Search.renderLocation(data)}
-                {Search.renderExternalLink(data)}
+                {Search.renderLinks(data)}
             </div>
         );
     }
