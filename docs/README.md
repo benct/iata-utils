@@ -7,6 +7,13 @@ referenced by [IATA](https://www.iata.org/) codes. Airline data search based on
 [best known](https://github.com/opentraveldata/opentraveldata/tree/master/opentraveldata) information on airlines.
 Data curated by the [Open Travel Data](https://github.com/opentraveldata/opentraveldata) (OPTD) project.
 
+### Direct URL
+
+Link directly to a search result by adding the `code` query parameter to the URL:
+```
+https://benct.github.io/iata-utils/?code=OSL
+```
+
 ### IATA utilities project
 
 See [root project](https://github.com/benct/iata-utils) for more information and other IATA mappings and data sources.
