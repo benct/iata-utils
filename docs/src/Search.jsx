@@ -11,9 +11,23 @@ export default class Search extends React.Component {
         };
     }
 
+    componentDidMount() {
+        const query = document.location.search
+            .substr(1)
+            .split('&')
+            .map(it => it.split('='))
+            .filter(it => it[0] === 'code')
+            .map(it => it[1])
+            .shift();
+
+        if (query) {
+            this.setState({ query }, this.handleSearch);
+        }
+    }
+
     handleKey(event) {
         if (event.keyCode === 13 || event.key === 'Enter') {
-            this.handleSearch(event);
+            this.handleSearch();
         }
     }
 
