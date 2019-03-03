@@ -2981,7 +2981,9 @@ GNT^Grants^NM^US^3^^GNT^Grants-Milan Municipal^^A
 GNU^Goodnews Bay^AK^US^5^^GNU^Goodnews Bay^1779^A
 GNV^Gainesville^FL^US^1^^GNV^Regional^1780^A
 GNZ^Ghanzi^^BW^^^GNZ^Ghanzi^1782^A
+GOA^Genoa^^IT^^^GEP^Brignole Railway Stn^^R
 GOA^Genoa^^IT^^^GOA^Cristoforo Colombo^1783^A
+GOA^Genoa^^IT^^^GPP^Plazza Principe RailSt^^R
 GOB^Goba^^ET^^^GOB^Robe^1784^A
 GOC^Gora^^PG^1^^GOC^Gora^^A
 GOE^Gonaili^^PG^1^^GOE^Gonaili^^A
@@ -3229,6 +3231,7 @@ HEE^Helena-West Helena^AR^US^2^^HEE^Thompson-Robbins^1914^A
 HEH^Heho^^MM^^^HEH^Heho^1915^A
 HEI^Heide/Buesum^^DE^^^HEI^Heide/Buesum^^A
 HEK^Heihe^^CN^^^HEK^Heihe^^A
+HEK^Heihe^^CN^^^NJJ^Nenjiang Melgen^^A
 HEL^Helsinki^^FI^^^HEC^Central Railway Stn^^R
 HEL^Helsinki^^FI^^^HEL^Helsinki-Vantaa^1917^A
 HEL^Helsinki^^FI^^^HEL^Metropolitan Area^^C
@@ -3932,6 +3935,7 @@ JNX^Naxos^^GR^^^JNX^Naxos^^A
 JNZ^Jinzhou^^CN^^^JNZ^Jinzhouwan^^A
 JOE^Joensuu^^FI^^^JOE^Joensuu^2316^A
 JOG^Yogyakarta^^ID^1^^JOG^Adisutjipto^2317^A
+JOG^Yogyakarta^^ID^1^^YIA^New Yogyakarta Int.^^A
 JOH^Port Saint John's^^ZA^^^JOH^Port Saint John's^^A
 JOI^Joinville^SC^BR^1^^JOI^Lauro Carneiro Loyola^2318^A
 JOK^Yoshkar-Ola^^RU^2^^JOK^Yoshkar-Ola^^A
@@ -4125,6 +4129,7 @@ KGF^Karaganda^^KZ^2^^KGF^Sary-Arka^^A
 KGG^Kedougou^^SN^^^KGG^Kedougou^^A
 KGH^Yongai^^PG^1^^KGH^Yongai^^A
 KGI^Kalgoorlie-Boulder^WA^AU^4^^KGI^Kalgoorlie-Boulder^2437^A
+KGI^Kalgoorlie-Boulder^WA^AU^4^^WCD^Carosue Dam^^A
 KGJ^Karonga^^MW^^^KGJ^Karonga^2438^A
 KGK^Koliganek^AK^US^5^^KGK^Koliganek^2439^A
 KGL^Kigali^^RW^^^KGL^International^2440^A
@@ -4523,7 +4528,7 @@ KZF^Kaintiba^^PG^1^^KZF^Kaintiba^2684^A
 KZG^Kitzingen^^DE^^^KZG^Kitzingen^^A
 KZI^Kozani^^GR^^^KZI^Filippos^^A
 KZN^Kazan^^RU^2^^KZN^International^2687^A
-KZO^Kyzylorda^^KZ^2^^KZO^Kyzylorda^^A
+KZO^Kyzylorda^^KZ^1^^KZO^Kyzylorda^^A
 KZR^Kutahya^^TR^^^KZR^Zafer^^A
 KZS^Megisti^^GR^^^KZS^Megisti^^A
 LAA^Lamar^CO^US^3^^LAA^Municipal^2688^A
@@ -4783,6 +4788,7 @@ LLI^Lalibela^^ET^^^LLI^Lalibela^2835^A
 LLJ^Lubuk Linggau^11^ID^2^^LLJ^Silampari^^A
 LLK^Lankaran^^AZ^^^LLK^Lankaran^^A
 LLL^Lissadell^WA^AU^4^^LLL^Lissadell^2836^A
+LLM^Lomlom^^SB^^^LLM^Lomlom^^A
 LLN^Kelila^^ID^3^^LLN^Kelila^^A
 LLO^Palopo^^ID^2^^LLO^Lagaligo^^A
 LLP^Linda Downs^QL^AU^2^B^LLP^Linda Downs^2837^A
@@ -4978,6 +4984,7 @@ LUC^Laucala Island^^FJ^^^LUC^Laucala Island^^A
 LUD^Luderitz^^NA^^^LUD^Luderitz^2935^A
 LUE^Lucenec^^SK^^^LUE^Lucenec^2936^A
 LUG^Lugano^^CH^^^LUG^Agno^2937^A
+LUG^Lugano^^CH^^^QDL^Lugano Railway Station^^R
 LUH^Ludhiana^PB^IN^^^LUH^Ludhiana^^A
 LUI^La Union^^HN^^^LUI^La Union^2938^A
 LUL^Hattiesburg/Laurel^MS^US^2^^HBG^Bobby L. Chain Muni^^A
@@ -6901,6 +6908,7 @@ PRY^Pretoria^^ZA^^^PRY^Metropolitan Area^^C
 PRY^Pretoria^^ZA^^^PRY^Wonderboom^4059^A
 PRY^Pretoria^^ZA^^^WKF^Waterkloof AFB^^A
 PRZ^Prineville^OR^US^4^^PRZ^Prineville^4060^A
+PSA^Pisa^^IT^^^PCE^Railway Station^^R
 PSA^Pisa^^IT^^^PSA^Galileo Galilei^^A
 PSB^Philipsburg^PA^US^1^^PSB^Mid-State^4062^A
 PSC^Pasco^WA^US^4^^PSC^Tri-Cities^4063^A
@@ -7310,7 +7318,7 @@ QLK^El Kala^^DZ^^^QLK^Off-line Point^^O
 QLL^Sao Leopoldo^RS^BR^1^^QLL^Off-line Point^^O
 QLM^La Munoza^^ES^1^^QLM^Off-line Point^^O
 QLN^Sulmona^^IT^^^QLN^Off-line Point^^O
-QLP^La Spezia^^IT^^^QLP^Off-line Point^^O
+QLP^La Spezia^^IT^^^QLP^Railway Station^^R
 QLR^Leiria^^PT^1^^QLR^Monte Real^^A
 QLS^Lausanne^^CH^^^QLS^Railway Station^^R
 QLT^Latina^^IT^^^QLT^Off-line Point^^O
@@ -8489,6 +8497,7 @@ SRF^San Rafael^CA^US^4^^JSG^Heliport^^H
 SRF^San Rafael^CA^US^4^^SRF^Airport^^A
 SRG^Semarang^^ID^1^^SRG^Ahmad Yani^4669^A
 SRH^Sarh^^TD^^^SRH^Sarh^4670^A
+SRI^Samarinda^^ID^2^^AAP^AP Tumenggung Pranoto^^A
 SRI^Samarinda^^ID^2^^SRI^Temindung^4671^A
 SRJ^San Borja^^BO^^^SRJ^German Quiroga Guardia^4672^A
 SRK^Siorapaluk^^GL^1^^SRK^Heliport^^H
