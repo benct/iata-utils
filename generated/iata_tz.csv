@@ -14,6 +14,7 @@ AAL^Europe/Copenhagen
 AAM^Africa/Johannesburg
 AAN^Asia/Dubai
 AAO^America/Caracas
+AAP^America/Chicago
 AAQ^Europe/Moscow
 AAR^Europe/Copenhagen
 AAS^Asia/Jayapura
@@ -4565,6 +4566,7 @@ LLI^Africa/Addis_Ababa
 LLJ^Asia/Dhaka
 LLK^Asia/Baku
 LLL^Australia/Perth
+LLM^Asia/Kuching
 LLN^Asia/Jayapura
 LLO^Asia/Makassar
 LLP^Australia/Brisbane
@@ -6200,6 +6202,7 @@ PCA^America/Anchorage
 PCB^Asia/Jakarta
 PCC^America/Bogota
 PCD^America/Chicago
+PCE^America/Anchorage
 PCF^Africa/Johannesburg
 PCH^America/Tegucigalpa
 PCI^Europe/Madrid
@@ -6738,6 +6741,7 @@ QDH^Europe/London
 QDI^Europe/Vienna
 QDJ^Africa/Algiers
 QDK^Asia/Karachi
+QDL^America/Sao_Paulo
 QDM^Asia/Hong_Kong
 QDN^Australia/Sydney
 QDO^Africa/Mogadishu
