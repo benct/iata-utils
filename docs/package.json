@@ -4,7 +4,7 @@
   "description": "Various IATA utilities",
   "main": "index.js",
   "scripts": {
-    "clean": "rm -rf ./dist/bundle.js",
+    "clean": "rm -rf ./dist/bundle.js*",
     "lint": "./node_modules/.bin/eslint *.js \"src/*.js\" \"src/*.jsx\"",
     "lint-fix": "./node_modules/.bin/eslint --fix *.js \"src/*.js\" \"src/*.jsx\"",
     "dev": "webpack-dev-server --open --inline --history-api-fallback --config webpack.dev.js",
