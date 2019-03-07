@@ -65,6 +65,16 @@ kotlinc src/main/kotlin/no/tomlin/iata/* -include-runtime -d build/iata.jar
 java -jar build/iata.jar
 ```
 
+#### Live search (docs)
+
+Make changes to the javascript app and run the following commands.
+
+```bash
+yarn clean
+yarn lint
+yarn build-prod
+```
+
 #### Updating data files
 
 Only update the imported data files by copying in changes from their respective sources (use curl commands below in root folder).
