@@ -2,7 +2,11 @@
     margin-bottom: 40px;
 }
 
-:focus {
+.app-container pre {
+    margin: 0;
+}
+
+.app-container :focus {
     outline: none;
 }
 
@@ -54,4 +58,8 @@
     position: absolute;
     right: 0;
     top: 0;
+}
+
+.app-warn {
+    color: darkred;
 }
