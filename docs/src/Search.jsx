@@ -57,17 +57,17 @@ export default class Search extends React.Component {
     static renderAirline(data) {
         return (
             <div className="app-result-margin">
-                {data.alias !== '' ? (
+                {data.alias ? (
                     <div>
                         Alias: <code>{data.alias}</code>
                     </div>
                 ) : null}
-                {data.started !== '' ? (
+                {data.started ? (
                     <div>
                         Started: <code>{data.started}</code>
                     </div>
                 ) : null}
-                {data.ended !== '' ? (
+                {data.ended ? (
                     <div>
                         Ended: <code>{data.ended}</code>
                     </div>
@@ -84,7 +84,7 @@ export default class Search extends React.Component {
                 </code>
                 <br />
                 <code>
-                    {data.area !== '' ? `${data.area} (${data.areaCode}), ` : null}
+                    {data.area ? `${data.area} (${data.areaCode}), ` : null}
                     {data.country} ({data.countryCode}), {data.continent}
                 </code>
                 <br />
@@ -110,7 +110,7 @@ export default class Search extends React.Component {
 
         return (
             <>
-                {data.wiki && data.wiki !== ''
+                {data.wiki
                     ? Search.renderExternalLink(data.wiki, data.wiki)
                     : Search.renderExternalLink(
                           `https://www.google.com/search?q=iata+${type}+${data.iataCode}`,
