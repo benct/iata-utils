@@ -78,19 +78,19 @@ export default class Search extends React.Component {
 
     static renderLocation(data) {
         return (
-            <div className="app-result-margin">
-                {!data.operational ? <pre className="app-warn">Deprecated / Not in use</pre> : null}
-                <pre>
+            <div className="app-result-margin app-code">
+                {!data.operational ? <code className="app-warn">Deprecated / Not in use</code> : null}
+                <code>
                     {data.cityName} ({data.cityCode})
-                </pre>
-                <pre>
+                </code>
+                <code>
                     {data.area ? `${data.area} (${data.areaCode}), ` : null}
                     {data.country} ({data.countryCode}), {data.continent}
-                </pre>
-                <pre>{data.timezone}</pre>
-                <pre>
+                </code>
+                <code>{data.timezone}</code>
+                <code>
                     {data.latitude}, {data.longitude}
-                </pre>
+                </code>
             </div>
         );
     }

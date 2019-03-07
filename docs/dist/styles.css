@@ -2,10 +2,6 @@
     margin-bottom: 40px;
 }
 
-.app-container pre {
-    margin: 0;
-}
-
 .app-container :focus {
     outline: none;
 }
@@ -58,6 +54,10 @@
     position: absolute;
     right: 0;
     top: 0;
+}
+
+.app-code code {
+    display: block;
 }
 
 .app-warn {
