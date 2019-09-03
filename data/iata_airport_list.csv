@@ -582,6 +582,7 @@ AYS^Waycross^GA^US^1^^AYS^Ware County^0350^A
 AYT^Antalya^^TR^^^AYT^Antalya^0351^A
 AYU^Aiyura^^PG^1^^AYU^Aiyura^0352^A
 AYW^Ayawasi^^ID^3^^AYW^Ayawasi^^A
+AYX^Atalaya^23^PE^^^AYX^Gerardo Perez Pinedo^^A
 AYY^Pottuvil^^LK^^^AYY^Arugam Bay SPB^^A
 AZB^Amazon Bay^^PG^1^^AZB^Amazon Bay^0354^A
 AZD^Yazd^^IR^^^AZD^Shahid Sadooghi^0355^A
@@ -1293,6 +1294,9 @@ CAK^Akron/Canton^OH^US^1^^CAK^Regional^0788^A
 CAL^Campbeltown^^GB^^^CAL^Campbeltown^0789^A
 CAM^Camiri^^BO^^^CAM^Camiri^0790^A
 CAN^Guangzhou^^CN^^^CAN^Baiyun Intl^0791^A
+CAN^Guangzhou^^CN^^^NSZ^Nansha Ferry Port^^P
+CAN^Guangzhou^^CN^^^ZIY^Lianhuashan Ferry Port^^P
+CAN^Guangzhou^^CN^^^ZTI^Humen Ferry Port^^P
 CAO^Clayton^NM^US^3^^CAO^Municipal Airpark^^A
 CAP^Cap-Haitien^^HT^^^CAP^Hugo Chavez Intl^0792^A
 CAQ^Caucasia^^CO^^^CAQ^Juan H. White^0793^A
@@ -1418,6 +1422,7 @@ CFH^Clifton Hills^SA^AU^3^^CFH^Clifton Hills^0869^A
 CFI^Camfield Station^NT^AU^3^A^CFI^Camfield Station^0870^A
 CFK^Chlef^^DZ^^^CFK^Aboubakr Belkaid^^A
 CFM^Conklin^AB^CA^5^^CFM^Leismer^^A
+CFM^Conklin^AB^CA^5^^KFM^Kirby Lake Aerodrome^^A
 CFN^Donegal^^IE^^^CFN^Donegal^^A
 CFO^Confresa^MT^BR^2^^CFO^Confresa^^A
 CFP^Carpentaria Downs^QL^AU^2^B^CFP^Carpentaria Downs^0871^A
@@ -3222,6 +3227,7 @@ HDE^Holdrege^NE^US^2^^HDE^Brewster Field^^A
 HDF^Heringsdorf^^DE^^^HDF^Heringsdorf^^A
 HDG^Handan^^CN^^^HDG^Handan^^A
 HDH^Mokuleia^HI^US^6^A^HDH^Dillingham^^A
+HDK^Kulhudhuffushi^^MV^^^HDK^Kulhudhuffushi^^A
 HDM^Hamadan^^IR^^^HDM^Hamadan^1909^A
 HDN^Hayden^CO^US^3^^HDN^Yampa Valley^1910^A
 HDQ^Headquarters^^^^^HDQ^Headquarters^^O
@@ -3281,6 +3287,7 @@ HHH^Hilton Head Island^SC^US^1^^HHH^Hilton Head^1938^A
 HHI^Wahiawa^HI^US^6^A^HHI^Wheeler AAF^^A
 HHQ^Hua Hin^^TH^^^HHQ^Hua Hin^^A
 HHR^Hawthorne^CA^US^4^^HHR^Municipal^^A
+HHS^Zhongshan^^CN^^^HHS^CZ Bus Station^^B
 HHZ^Hikueru^^PF^2^^HHZ^Hikueru^^A
 HIA^Huai'an^^CN^^^HIA^Lianshui^^A
 HIB^Hibbing/Chisholm^MN^US^2^^HIB^Range Regional^1940^A
@@ -5979,6 +5986,7 @@ NMA^Namangan^^UZ^^^NMA^Namangan^^A
 NMB^Daman^DD^IN^^^NMB^Daman^^A
 NMC^Norman's Cay^^BS^^^NMC^Norman's Cay^3537^A
 NME^Nightmute^AK^US^5^^NME^Nightmute^3538^A
+NMF^Maafaru^^MV^^^NMF^Maafaru International^^A
 NMG^San Miguel^^PA^^^NMG^San Miguel^^A
 NMN^Nomane^^PG^1^^NMN^Nomane^^A
 NMP^New Moon^QL^AU^2^B^NMP^New Moon^3539^A
@@ -6066,7 +6074,6 @@ NSQ^Nuussuaq^^GL^1^^NSQ^Heliport^^H
 NST^Nakhon Si Thammarat^^TH^^^NST^Nakhon Si Thammarat^^A
 NSV^Noosaville^QL^AU^2^B^NSV^Noosa^^A
 NSY^Sigonella^^IT^^^NSY^NAS^^A
-NSZ^Nansha^^CN^^^NSZ^Ferry Port^^P
 NTA^Natadola^^FJ^^^NTA^Natadola^3581^A
 NTB^Notodden^^NO^^^NTB^Notodden^^A
 NTC^Santa Carolina^^MZ^^^NTC^Santa Carolina^^A
@@ -6504,7 +6511,6 @@ OZZ^Ouarzazate^^MA^^^OZZ^Ouarzazate^3805^A
 PAA^Hpa-an^^MM^^^PAA^Hpa-an^3806^A
 PAB^Bilaspur^CT^IN^^^PAB^Bilaspur^^A
 PAD^Paderborn/Lippstadt^^DE^^^PAD^Paderborn/Lippstadt^3809^A
-PAE^Everett^WA^US^4^^PAE^Snohomish County^3810^A
 PAF^Pakuba^^UG^^^PAF^Pakuba^^A
 PAG^Pagadian^^PH^^^PAG^Pagadian^3811^A
 PAH^Paducah^KY^US^2^^PAH^Barkley Regional^3812^A
@@ -8145,6 +8151,7 @@ SDZ^Shetland Islands^^GB^^^SCS^Scatsta^4404^A
 SDZ^Shetland Islands^^GB^^^SDZ^Metropolitan Area^^C
 SEA^Seattle^WA^US^4^^BFI^Boeing Fld-King Co Int^0458^A
 SEA^Seattle^WA^US^4^^LKE^Lake Union SPB^2820^A
+SEA^Seattle^WA^US^4^^PAE^Snohomish County^^A
 SEA^Seattle^WA^US^4^^SEA^Metropolitan Area^^C
 SEA^Seattle^WA^US^4^^SEA^Seattle-Tacoma Intl^4430^A
 SEB^Sebha^^LY^^^SEB^Sebha^4431^A
@@ -8755,6 +8762,7 @@ SZW^Schwerin^^DE^^^ZSR^Hbf Railway Station^^R
 SZX^Shenzhen^^CN^^^FYG^Fuyong Ferry Port^^P
 SZX^Shenzhen^^CN^^^HNZ^CZ Bus Station^^B
 SZX^Shenzhen^^CN^^^SZX^Bao'an Intl^^A
+SZX^Shenzhen^^CN^^^ZYK^Shekou Ferry Port^^P
 SZX^Shenzhen^^CN^^^ZYX^Yantian Ferry Port^^P
 SZY^Szczytno^^PL^^^SZY^Olsztyn-Mazury^^A
 SZZ^Szczecin^^PL^^^SZZ^Goleniow^4801^A
@@ -9561,7 +9569,7 @@ VCT^Victoria^TX^US^2^^VCT^Regional^5261^A
 VCV^Victorville^CA^US^4^^VCV^S.Calif. Logistics Apt^^A
 VDA^Ovda^^IL^^^VDA^Ovda^^A
 VDB^Fagernes^^NO^^^VDB^Leirin^^A
-VDC^Vitoria da Conquista^BA^BR^1^^VDC^P. Otacilio Figueiredo^^A
+VDC^Vitoria da Conquista^BA^BR^1^^VDC^Glauber Rocha^^A
 VDE^Valverde^^ES^2^^VDE^El Hierro^5263^A
 VDH^Dong Hoi^^VN^^^VDH^Dong Hoi^^A
 VDI^Vidalia^GA^US^1^^VDI^Regional^^A
@@ -11112,8 +11120,6 @@ ZGI^Gods River^MB^CA^4^^ZGI^Gods River^5827^A
 ZGK^Leuven^^BE^^^ZGK^Off-line Point^^O
 ZGL^South Galway^QL^AU^2^B^ZGL^South Galway^5828^A
 ZGM^Ngoma^^ZM^^^ZGM^Ngoma^5829^A
-ZGN^Zhongshan^^CN^^^HHS^CZ Bus Station^^B
-ZGN^Zhongshan^^CN^^^ZGN^Ferry Port^^P
 ZGO^Gotha^^DE^^^ZGO^Railway Station^^R
 ZGP^Mechelen^^BE^^^ZGP^Railway Station^^R
 ZGQ^Tournai^^BE^^^ZGQ^Off-line Point^^O
@@ -11162,7 +11168,6 @@ ZIS^Zintan^^LY^^^ZIS^Zintan^^A
 ZIT^Zittau^^DE^^^ZIT^Railway Station^^R
 ZIW^Kehl^^DE^^^ZIW^Off-line Point^^O
 ZIX^Zhigansk^^RU^8^^ZIX^Zhigansk^^A
-ZIY^Lianhuashan^^CN^^^ZIY^Ferry Port^^P
 ZIZ^Zamzama^^PK^^^ZIZ^Zamzama^^A
 ZJA^Le Locle^^CH^^^ZJA^Railway Station^^R
 ZJC^Lenzburg^^CH^^^ZJC^Railway Station^^R
@@ -11379,7 +11384,6 @@ ZTA^Tureia^^PF^2^^ZTA^Tureia^^A
 ZTB^Tete-a-la Baleine^QC^CA^2^A^ZTB^Tete-a-la Baleine^5869^A
 ZTF^Stamford^CT^US^1^^ZTF^Railway Station^^R
 ZTH^Zakynthos Island^^GR^^^ZTH^Dionisios Solomos^5870^A
-ZTI^Humen^^CN^^^ZTI^Ferry Port^^P
 ZTK^Thun^^CH^^^ZTK^Railway Station^^R
 ZTM^Shamattawa^MB^CA^4^^ZTM^Shamattawa^^A
 ZTP^Itapetininga^SP^BR^1^^ZTP^Off-line Point^^O
@@ -11392,6 +11396,7 @@ ZTZ^Chemnitz^^DE^^^ZTZ^Hbf Railway Station^^R
 ZUA^Utica^NY^US^1^^ZUA^Railway Station^^R
 ZUC^Ignace^ON^CA^4^^ZUC^Municipal^^A
 ZUD^Ancud^^CL^1^^ZUD^Pupelde^5872^A
+ZUH^Zhuhai^^CN^^^ZGN^Zhongshan Ferry Port^^P
 ZUH^Zhuhai^^CN^^^ZIU^CZ Bus Station^^B
 ZUH^Zhuhai^^CN^^^ZUH^Sanzao Intl^^A
 ZUH^Zhuhai^^CN^^^ZUI^Jiuzhou Ferry Port^^P
@@ -11467,7 +11472,6 @@ ZYC^Gizycko^^PL^^^ZYC^Off-line Point^^O
 ZYG^Gjovik^^NO^^^ZYG^Railway Station^^R
 ZYI^Zunyi^^CN^^^WMT^Maotai^^A
 ZYI^Zunyi^^CN^^^ZYI^Xinzhou^^A
-ZYK^Shekou^^CN^^^ZYK^Ferry Port^^P
 ZYL^Sylhet^^BD^^^ZYL^Osmani Intl^5880^A
 ZYM^Arnhem^^NL^^^QAR^Bus Station^^B
 ZYM^Arnhem^^NL^^^ZYM^Railway Station^^R
