@@ -2895,6 +2895,7 @@ GSR^Africa/Mogadishu
 GSS^Africa/Johannesburg
 GST^America/Juneau
 GSU^Africa/Khartoum
+GSV^Europe/Saratov
 GSY^Europe/London
 GTA^Pacific/Guadalcanal
 GTE^Australia/Darwin
@@ -3033,6 +3034,7 @@ HDE^America/Chicago
 HDF^Europe/Berlin
 HDG^Asia/Shanghai
 HDH^Pacific/Honolulu
+HDK^Indian/Maldives
 HDM^Asia/Tehran
 HDN^America/Denver
 HDQ^Europe/London
@@ -7412,7 +7414,7 @@ RGD^Europe/Warsaw
 RGE^Pacific/Port_Moresby
 RGH^Asia/Kolkata
 RGI^Pacific/Tahiti
-RGK^Asia/Omsk
+RGK^Asia/Barnaul
 RGL^America/Argentina/Rio_Gallegos
 RGN^Asia/Yangon
 RGO^Asia/Pyongyang
@@ -7715,7 +7717,7 @@ SCN^Europe/Berlin
 SCO^Asia/Aqtau
 SCP^Europe/Paris
 SCQ^Europe/Madrid
-SCR^America/New_York
+SCR^Europe/Stockholm
 SCS^Europe/London
 SCT^Asia/Aden
 SCU^America/Havana
