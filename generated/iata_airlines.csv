@@ -35,7 +35,7 @@ iata_code^icao_code^name^alias
 2A^DBB^Deutsche Bahn^
 2B^AWT^Albawings^
 2C^^SNCF^
-2D^DYA^Dynamic Airways^
+2D^EAL^Eastern Airlines, LLC^
 2E^EIX^Smokey Bay Air^Ei Air Export
 2F^FAV^Fair Aviation^
 2G^^Angara Airlines^
@@ -118,7 +118,6 @@ iata_code^icao_code^name^alias
 5N^AUL^Jsc Nordavia^Jsc Nordavia
 5O^FPO^ASL Airlines France^
 5P^PCP^PAL Airlines^Aerolinea Principal Chile
-5Q^BQB^BQB Líneas Aéreas^
 5R^RUC^RUTACA Airlines^
 5S^PSV^Servicios Aereos Profesionales^
 5T^MPE^Canadian North^
@@ -232,7 +231,6 @@ A7^CFV^Aéreo Calafia^Aereo Calafia
 A8^XAU^Aerolink Uganda^
 A9^^Georgian Airways^Arizena Air
 AA^AAL^American Airlines^
-AB^BER^Air Berlin^
 AC^ACA^Air Canada^
 AD^AZU^Azul Brazilian Airlines^Azul Linhas Aéreas Brasileiras
 AE^MDA^Mandarin Airlines^
@@ -346,7 +344,7 @@ DJ^WAJ^AirAsia Japan^
 DK^VKG^Thomas Cook Airlines^Eastland Air
 DL^DAL^Delta Air Lines^
 DM^DEX^Asian Air^Sterling Blue
-DN^^Senegal Airlines^
+DN^NAA^Norwegian Air Argentina^
 DO^^Discovery Airways^Air Vallee
 DP^^Pobeda^
 DQ^DCP^Delta Connection^Coastal Air
@@ -367,7 +365,6 @@ E6^^Bringer Air Cargo^
 E7^^Equaflight Service^Fly European
 E8^GTA^City Airways^
 E9^EVE^Evelop Airlines^
-EA^EAL^East Air Lines^
 EB^PLM^Wamos Air^Pullmantur Air
 EC^BOS^OpenSkies^
 ED^AXE^Air Explore^Airblue
@@ -468,7 +465,6 @@ HC^^Holidays Czech Airlines^Aero Tropics
 HD^ADO^Air Do^Hokkaido International Airlines
 HE^^LGW Luftfahrtges Walter^
 HF^^Air Cote D Ivoire^Aircoteivoire
-HG^NLY^Niki^
 HH^TBM^Taban Airlines^
 HI^^Papillon Airways^Papillonair
 HJ^HEJ^Hellas Jet^Hellenic Star
@@ -543,7 +539,6 @@ JJ^TAM^LATAM Brasil^
 JL^JAL^Japan Airlines^JAL
 JM^KQA^Jambojet^
 JO^JTG^Jet Time^Jalways
-JP^ADR^Adria Airways^
 JQ^JST^Jetstar^Jetstar Airways
 JR^JOY^Joy Air^
 JS^KOR^Air Koryo^Kor Air Dpr
@@ -563,7 +558,7 @@ K9^KFS^Kalitta Charters^
 KA^HDA^Cathay Dragon^
 KB^DRK^Druk Air^
 KC^KZR^Air Astana^
-KD^KNI^Kal Star Aviation^KD Avia
+KD^WGN^Western Global Airlines^
 KE^KAL^Korean Air^
 KF^BLF^Blue1^
 KG^GTV^Aerogaviota^King Island
@@ -684,14 +679,13 @@ NZ^ANZ^Air New Zealand^
 O2^^Jet Air^Jet Air
 O4^^Antrak Air^
 O5^KMZ^Comores Aviation International^
-O6^ONE^Avianca Brasil^Oceanair
 O7^^Orenburg Region Airlines^
 O9^NOV^Nova Airways^
 OA^OAL^Olympic Air^
 OB^BOV^Boliviana de Aviación (BoA)^
 OC^NGK^Oriental Air Bridge^Omni Aviacao
 OD^^Malindo Airways^
-OE^LDM^Laudamotion^
+OE^LDM^Lauda^
 OF^OLA^Overland Airways^
 OG^AFN^Air Freight NZ^
 OH^JIA^PSA Airlines^
@@ -829,7 +823,6 @@ SA^SAA^South African Airways^SAA
 SB^ACI^Aircalin^Cal Int
 SC^CDG^Shandong Airlines^
 SD^SUD^Sudan Airways^
-SE^XLF^XL Airways France^Star Airlines
 SF^DTH^Tassili Airlines^
 SG^SEJ^SpiceJet^
 SH^^Sharp Aviation^Fly Me
@@ -935,7 +928,7 @@ VC^SRY^ViaAir^
 VD^^Hennan Airlines^
 VE^EFY^EasyFly^
 VG^VLM^VLM Airlines^
-VH^^Aeropostal^
+VH^VVC^Viva Air Colombia^
 VI^^Volga Dnepr Airline^
 VJ^VJC^VietJet Air^
 VK^FOO^Anisec Luftfahrt^
@@ -1050,8 +1043,8 @@ Z3^^PM Air^
 Z4^GZQ^Zagrosjet^
 Z5^GMG^GMG Airlines^
 Z6^UDN^Dniproavia^
-Z7^FZW^Zimbabwe flyafrica.com^
-Z8^AZN^Línea Aérea Amaszonas^Amaszonas
+Z7^AUZ^Amaszonas Uruguay^
+Z8^AZN^Línea Aérea Amaszonas^
 Z9^BEK^Jsc Bek Air^
 ZA^SWM^Sky Angkor Airlines^Skywings Asia Airlines
 ZB^MON^Monarch Airlines^
@@ -1066,7 +1059,7 @@ ZK^GLA^Great Lakes Airlines^
 ZL^RXA^Regional Express^
 ZM^MBB^Pegasus Asia^Air Manas
 ZN^NAY^Naysa^Air Bourbon
-ZP^^Amaszonas Del Paraguay^
+ZP^AZP^Paranair^
 ZR^^Punto Azul^
 ZS^^Kazaviaspas^
 ZT^^Titan Airways^
