@@ -582,7 +582,7 @@ AYS^Waycross^GA^US^1^^AYS^Ware County^0350^A
 AYT^Antalya^^TR^^^AYT^Antalya^0351^A
 AYU^Aiyura^^PG^1^^AYU^Aiyura^0352^A
 AYW^Ayawasi^^ID^3^^AYW^Ayawasi^^A
-AYX^Atalaya^23^PE^^^AYX^Gerardo Perez Pinedo^^A
+AYX^Atalaya^^PE^^^AYX^Gerardo Perez Pinedo^^A
 AYY^Pottuvil^^LK^^^AYY^Arugam Bay SPB^^A
 AZB^Amazon Bay^^PG^1^^AZB^Amazon Bay^0354^A
 AZD^Yazd^^IR^^^AZD^Shahid Sadooghi^0355^A
@@ -1422,7 +1422,7 @@ CFH^Clifton Hills^SA^AU^3^^CFH^Clifton Hills^0869^A
 CFI^Camfield Station^NT^AU^3^A^CFI^Camfield Station^0870^A
 CFK^Chlef^^DZ^^^CFK^Aboubakr Belkaid^^A
 CFM^Conklin^AB^CA^5^^CFM^Leismer^^A
-CFM^Conklin^AB^CA^5^^KFM^Kirby Lake Aerodrome^^A
+CFM^Conklin^AB^CA^5^^KFM^Kirby Lake^^A
 CFN^Donegal^^IE^^^CFN^Donegal^^A
 CFO^Confresa^MT^BR^2^^CFO^Confresa^^A
 CFP^Carpentaria Downs^QL^AU^2^B^CFP^Carpentaria Downs^0871^A
@@ -1695,6 +1695,7 @@ CQM^Ciudad Real^^ES^1^^XJI^Railway Station^^R
 CQP^Cape Flattery^QL^AU^2^B^CQP^Cape Flattery^1041^A
 CQS^Costa Marques^RO^BR^2^^CQS^Costa Marques^^A
 CQT^Caquetania^^CO^^^CQT^Caquetania^1043^A
+CQW^Wulong^320^CN^^^CQW^Chongqing Xiannvshan^^A
 CRA^Craiova^^RO^^^CRA^Craiova^1044^A
 CRB^Collarenebri^NS^AU^2^^CRB^Collarenebri^1045^A
 CRC^Cartago^^CO^^^CRC^Santa Ana^^A
@@ -2014,7 +2015,7 @@ DIW^Dikwella^^LK^^^DIW^Mawella Lagoon SPB^^A
 DIY^Diyarbakir^^TR^^^DIY^Diyarbakir^^A
 DJA^Djougou^^BJ^^^DJA^Djougou^^A
 DJB^Jambi^^ID^1^^DJB^Sultan Thaha^1225^A
-DJE^Djerba^^TN^^^DJE^Zarsis^1226^A
+DJE^Djerba^^TN^^^DJE^Zarzis^1226^A
 DJG^Djanet^^DZ^^^DJG^Tiska^1227^A
 DJJ^Jayapura^^ID^3^^DJJ^Sentani^1228^A
 DJM^Djambala^^CG^^^DJM^Djambala^1229^A
@@ -2066,7 +2067,7 @@ DNF^Derna^^LY^^^DNF^Martuba^^A
 DNG^Doongan^WA^AU^4^^DNG^Doongan^0000^A
 DNH^Dunhuang^^CN^^^DNH^Dunhuang^^A
 DNI^Wad Madani^^SD^^^DNI^Wad Madani^1253^A
-DNK^Dnipropetrovsk^^UA^^^DNK^International^^A
+DNK^Dnipro^^UA^^^DNK^International^^A
 DNM^Denham^WA^AU^4^^DNM^Denham^1254^A
 DNN^Dalton^GA^US^1^^DNN^Municipal^1255^A
 DNN^Dalton^GA^US^1^^QJJ^FlightLink Bus Station^^B
@@ -2212,6 +2213,7 @@ DWR^Dwyer^^AF^^^DWR^Air Base^^A
 DXA^Les Deux Alpes^^FR^^^DXA^Off-line Point^^O
 DXB^Dubai^^AE^^^DCG^Dubai Creek SPB^^A
 DXB^Dubai^^AE^^^DJH^Jebel Ali SPB^^A
+DXB^Dubai^^AE^^^DST^Seaplane Terminal^^A
 DXB^Dubai^^AE^^^DWC^Al Maktoum Intl^^A
 DXB^Dubai^^AE^^^DXB^International^1319^A
 DXB^Dubai^^AE^^^DXB^Metropolitan Area^^C
@@ -2219,7 +2221,6 @@ DXB^Dubai^^AE^^^NHD^Minhad AB^^A
 DXB^Dubai^^AE^^^XEU^Hyatt Rgncy EY Bus Stn^^B
 DXB^Dubai^^AE^^^XHB^NP Bus Station^^B
 DXB^Dubai^^AE^^^XNB^Etihad Bus Stn^^B
-DXB^Dubai^^AE^^^ZJF^Jebel Ali Free Zone^^O
 DXB^Dubai^^AE^^^ZXZ^Jumeirah Beach Bus St^^B
 DXD^Dixie^QL^AU^2^B^DXD^Dixie^1320^A
 DXE^Madison^MS^US^2^^DXE^Bruce Campbell Field^^A
@@ -2654,6 +2655,7 @@ FNA^Freetown^^SL^^^HGS^Hastings^1934^A
 FNA^Freetown^^SL^^^JMY^Mammy Yoko Heliport^^H
 FNB^Neubrandenburg^^DE^^^FNB^Trollenhagen^^A
 FNC^Funchal^^PT^1^^FNC^Madeira^1579^A
+FND^Funadhoo^^MV^^^FND^Funadhoo^^A
 FNE^Fane^^PG^1^^FNE^Fane^1580^A
 FNG^Fada N'Gourma^^BF^^^FNG^Fada N'Gourma^1581^A
 FNH^Fincha'a^^ET^^^FNH^Fincha'a^^A
@@ -2798,6 +2800,7 @@ GBE^Gaborone^^BW^^^GBE^Sir Seretse Khama Intl^1668^A
 GBF^Negarbo^^PG^1^^GBF^Negarbo^^A
 GBG^Galesburg^IL^US^2^^GBG^Municipal^1669^A
 GBH^Galbraith Lake^AK^US^5^^GBH^Galbraith Lake^^A
+GBI^Gulbarga^^IN^^^GBI^Kalaburgi^^A
 GBJ^Marie-Galante^^GP^^^GBJ^Marie-Galante^1670^A
 GBK^Gbangbatok^^SL^^^GBK^Gbangbatok^1671^A
 GBL^South Goulburn Island^NT^AU^3^A^GBL^South Goulburn Island^1672^A
@@ -2879,10 +2882,14 @@ GFO^Bartica^^GY^^^GFO^Bartica^1709^A
 GFR^Granville^^FR^^^GFR^Granville^1710^A
 GFY^Grootfontein^^NA^^^GFY^Grootfontein^1711^A
 GGA^La Graciosa^^ES^2^^GGA^Ferry Port^^P
+GGB^Agua Boa^^BR^2^^GGB^Agua Boa^^A
 GGC^Lumbala N'guimbo^^AO^^^GGC^Lumbala N'guimbo^1712^A
 GGD^Gregory Downs^QL^AU^2^B^GGD^Gregory Downs^1713^A
 GGE^Georgetown^SC^US^1^^GGE^Georgetown County^1714^A
+GGF^Almeirim^PA^BR^1^^GGF^Almeirim^^A
 GGG^Longview^TX^US^2^^GGG^East Texas Regional^^A
+GGH^Cianorte^PR^BR^2^^GGH^Cianorte^^A
+GGJ^Guaira^PR^BR^1^^GGJ^Guaira^^A
 GGL^Gilgal^^CO^^^GGL^Gilgal^1716^A
 GGM^Kakamega^^KE^^^GGM^Kakamega^^A
 GGN^Gagnoa^^CI^^^GGN^Gagnoa^1717^A
@@ -2896,7 +2903,7 @@ GHB^Governor's Harbour^^BS^^^GHB^Governor's Harbour^1724^A
 GHC^Great Harbour Cay^^BS^^^GHC^Great Harbour Cay^1725^A
 GHE^Garachine^^PA^^^GHE^Garachine^^A
 GHF^Giebelstadt^^DE^^^GHF^Giebelstadt^^A
-GHK^Kennedy Lake^NW^CA^5^^GHK^Gahcho Kue^^A
+GHK^Kennedy Lake^NT^CA^5^^GHK^Gahcho Kue^^A
 GHM^Centerville^TN^US^2^^GHM^Municipal^^A
 GHN^Guanghan^^CN^^^GHN^Guanghan^^A
 GHS^West Kutai^17^ID^2^^GHS^Melalan^^A
@@ -3147,6 +3154,7 @@ GXQ^Coyhaique^^CL^1^^GXQ^Teniente Vidal^1871^A
 GXX^Yagoua^^CM^^^GXX^Yagoua^1872^A
 GXY^Greeley^CO^US^3^^GXY^Weld County^1873^A
 GYA^Guayaramerin^^BO^^^GYA^Guayaramerin^1874^A
+GYB^Wodgina^^AU^4^^GYB^Wodgina^^A
 GYE^Guayaquil^^EC^1^^GYE^Jose Joaquin de Olmedo^1875^A
 GYG^Magan^^RU^8^^GYG^Magan^^A
 GYI^Gisenyi^^RW^^^GYI^Gisenyi^^A
@@ -3202,6 +3210,7 @@ HAU^Haugesund^^NO^^^HAU^Karmoy^1896^A
 HAV^Havana^^CU^^^HAV^Jose Marti Intl^1897^A
 HAV^Havana^^CU^^^UPB^Playa Baracoa^^A
 HAW^Haverfordwest^^GB^^^HAW^Haverfordwest^^A
+HAY^Aguachica^^CO^^^HAY^Hacaritama^^A
 HAZ^Hatzfeldthaven^^PG^1^^HAZ^Hatzfeldthaven^1899^A
 HBA^Hobart^TS^AU^2^A^HBA^International^1900^A
 HBD^Habi^^PG^1^^HBD^Habi^^A
@@ -3843,6 +3852,7 @@ JAX^Jacksonville^FL^US^1^^NIP^NAS (Towers Field)^^A
 JAX^Jacksonville^FL^US^1^^VQQ^Cecil^^A
 JBB^Jember^^ID^1^^JBB^Noto Hadinegoro^^A
 JBR^Jonesboro^AR^US^2^^JBR^Municipal^^A
+JBS^Sao Borja^RS^BR^1^^JBS^Joao Manoel^^A
 JCB^Joacaba^SC^BR^1^^JCB^Santa Terezinha^2260^A
 JCH^Qasigiannguit^^GL^1^^JCH^Heliport^^A
 JCJ^Chuja^^KR^^^JCJ^Heliport^^H
@@ -4486,6 +4496,7 @@ KVK^Kirovsk/Apatity^^RU^2^^KVK^Khibiny^^A
 KVL^Kivalina^AK^US^5^^KVL^Kivalina^2651^A
 KVM^Markovo^^RU^1^1^KVM^Markovo^^A
 KVN^Kunshan^^CN^^^KVN^Kunshannan Railway Stn^^R
+KVO^Kraljevo^NA^RS^^^KVO^Morava^^A
 KVR^Kavalerovo^^RU^9^^KVR^Kavalerovo^^A
 KVU^Korolevu^^FJ^^^KVU^SPB^2652^A
 KVX^Kirov^^RU^2^^KVX^Pobedilovo^^A
@@ -5067,7 +5078,6 @@ LYS^Lyon^^FR^^^GNB^Grenoble-Isere^^A
 LYS^Lyon^^FR^^^LYN^Bron^^A
 LYS^Lyon^^FR^^^LYS^Metropolitan Area^^C
 LYS^Lyon^^FR^^^LYS^St-Exupery^2978^A
-LYS^Lyon^^FR^^^XRV^Off-line Point^^O
 LYS^Lyon^^FR^^^XYD^Part-Dieu Railway Stn^^R
 LYS^Lyon^^FR^^^XYL^Perrache Railway Stn^^R
 LYT^Lady Elliot Island^QL^AU^2^B^LYT^Lady Elliot Island^^A
@@ -5986,7 +5996,7 @@ NMA^Namangan^^UZ^^^NMA^Namangan^^A
 NMB^Daman^DD^IN^^^NMB^Daman^^A
 NMC^Norman's Cay^^BS^^^NMC^Norman's Cay^3537^A
 NME^Nightmute^AK^US^5^^NME^Nightmute^3538^A
-NMF^Maafaru^^MV^^^NMF^Maafaru International^^A
+NMF^Maafaru^^MV^^^NMF^International^^A
 NMG^San Miguel^^PA^^^NMG^San Miguel^^A
 NMN^Nomane^^PG^1^^NMN^Nomane^^A
 NMP^New Moon^QL^AU^2^B^NMP^New Moon^3539^A
@@ -6367,7 +6377,6 @@ OPQ^Puning^^CN^^^OPQ^Railway Station^^R
 OPS^Sinop^MT^BR^2^^OPS^Jao B. Figueiredo^^A
 OPU^Balimo^^PG^1^^OPU^Balimo^3725^A
 OPW^Opuwo^^NA^^^OPW^Opuwo^^A
-OQR^Oradea^^RO^^^OQR^Bus Station^^B
 ORA^Oran^SA^AR^^^ORA^Oran^3726^A
 ORB^Orebro^^SE^^^ORB^Airport^^A
 ORB^Orebro^^SE^^^XWR^Orebro C Railway Stn^^R
@@ -7201,7 +7210,7 @@ QFU^Corralejo^^ES^2^^QFU^Off-line Point^^O
 QFW^Fort Washington^PA^US^1^^QFW^Off-line Point^^O
 QFX^Igaliku^^GL^1^^QFX^Heliport^^H
 QFY^Fukuyama^^JP^^^QFY^Off-line Point^^O
-QGA^Guaira^PR^BR^1^^QGA^Off-line Point^^O
+QGA^FICTITIOUS POINT^PR^BR^1^^QGA^Off-line point^^O
 QGB^Limeira^SP^BR^1^^QGB^Off-line Point^^O
 QGC^Lencois Paulista^SP^BR^1^^QGC^Off-line Point^^O
 QGD^Monte Alegre^PR^BR^1^^QGD^Off-line Point^^O
@@ -7397,7 +7406,7 @@ QOD^Osvaldo Cruz^SP^BR^1^^QOD^Off-line Point^^O
 QOE^Noervenich^^DE^^^QOE^Off-line Point^^O
 QOG^Homburg^^DE^^^QOG^Off-line Point^^O
 QOI^Cotia^SP^BR^1^^QOI^Off-line Point^^O
-QOJ^Sao Borja^RS^BR^1^^QOJ^Off-line Point^^O
+QOJ^FICTITIOUS POINT^RS^BR^1^^QOJ^Off-line Point^^O
 QOK^Oksfjord^^NO^^^QOK^Off-line Point^^O
 QOL^Collo^^DZ^^^QOL^Off-line Point^^O
 QOM^Omiya^^JP^^^QOM^Off-line Point^^O
@@ -7501,7 +7510,6 @@ QSX^New Amsterdam^^GY^^^QSX^Off-line Point^^O
 QSY^Ruedesheim^^DE^^^QSY^Off-line Point^^O
 QSZ^Shache^^CN^^^QSZ^Yeerqiang^^A
 QTA^Atibaia^SP^BR^1^^ZBW^Off-line Point^^O
-QTB^Tubarao^SC^BR^1^^ZHX^Off-line Point^^O
 QTD^Timbauba^PE^BR^1^^QTD^Off-line Point^^O
 QTE^Sao Goncalo Amarante^RN^BR^1^^QTE^Off-line Point^^O
 QTF^Qatif^^SA^^^QTF^Off-line Point^^O
@@ -7551,7 +7559,7 @@ QUX^Caudebec-en-Caux^^FR^^^QUX^Off-line Point^^O
 QUY^Wyton^^GB^^^QUY^RAF Station^^A
 QUZ^Puerto de la Luz^^ES^2^^QUZ^Off-line Point^^O
 QVA^Varese^^IT^^^QVA^Off-line Point^^O
-QVB^Uniao da Vitoria^PR^BR^1^^QVB^Off-line Point^^O
+QVB^FICTITIOUS POINT^PR^BR^1^^QVB^Off-line Point^^O
 QVC^Vicosa^MG^BR^1^^QVC^Off-line Point^^O
 QVD^Salo^^FI^^^QVD^Off-line Point^^O
 QVE^Forssa^^FI^^^QVE^Off-line Point^^O
@@ -7814,6 +7822,7 @@ RIM^Rodriguez de Mendoza^^PE^^^RIM^San Nicolas^^A
 RIN^Ringgi Cove^^SB^^^RIN^Ringgi Cove^4239^A
 RIO^Rio de Janeiro^RJ^BR^1^^GIG^Galeao-A.C.Jobim Intl^1732^A
 RIO^Rio de Janeiro^RJ^BR^1^^RIO^Metropolitan Area^^C
+RIO^Rio de Janeiro^RJ^BR^1^^RRJ^Jacarepagua^^A
 RIO^Rio de Janeiro^RJ^BR^1^^SDU^Santos Dumont^4425^A
 RIO^Rio de Janeiro^RJ^BR^1^^SNZ^Santa Cruz AB^^A
 RIS^Rishiri^^JP^^^RIS^Rishiri^4241^A
@@ -8090,6 +8099,7 @@ SBX^Shelby^MT^US^3^^SBX^Shelby^4389^A
 SBY^Salisbury/Ocean City^MD^US^1^^OCE^Ocean City Municipal^^A
 SBY^Salisbury/Ocean City^MD^US^1^^SBY^Wicomico Regional^4390^A
 SBZ^Sibiu^^RO^^^SBZ^Sibiu^4391^A
+SBZ^Sibiu^^RO^^^SEI^Bus Station^^B
 SCA^Santa Catalina^^CO^^^SCA^Santa Catalina^4392^A
 SCB^Scribner^NE^US^2^^SCB^State^^A
 SCC^Prudhoe Bay/Deadhorse^AK^US^5^^SCC^Deadhorse^4393^A
@@ -8160,7 +8170,6 @@ SED^Sedom^^IL^^^SED^Min'hat Hashnayim^4433^A
 SEF^Sebring^FL^US^1^^SEF^Regional^4434^A
 SEG^Selinsgrove^PA^US^1^^SEG^Penn Valley^^A
 SEH^Senggeh^^ID^3^^SEH^Senggeh^4435^A
-SEI^Sibiu^^RO^^^SEI^Bus Station^^B
 SEK^Srednekolymsk^^RU^10^^SEK^Srednekolymsk^^A
 SEL^Seoul^^KR^^^GMP^Gimpo International^4438^A
 SEL^Seoul^^KR^^^ICN^Incheon International^^A
@@ -9014,7 +9023,7 @@ TLB^Tarbela Dam^^PK^^^TLB^Tarbela Dam^4953^A
 TLD^Tuli Lodge^^BW^^^TLD^Tuli Lodge^^A
 TLE^Toliara^^MG^^^TLE^Toliara^4954^A
 TLF^Telida^AK^US^5^^TLF^Telida^^A
-TLG^Tulaghi^^SB^^^TLG^Heliport^4955^A
+TLG^Tulaghi^^SB^^^TLG^Heliport^^H
 TLH^Tallahassee^FL^US^1^^TLH^International^4956^A
 TLI^Tolitoli^^ID^2^^TLI^Lalos^4957^A
 TLJ^Tatalina^AK^US^5^^TLJ^Tatalina^4958^A
@@ -9366,6 +9375,7 @@ UFM^Falmouth^^GB^^^UFM^Railway Station^^R
 UGA^Bulgan^^MN^^^UGA^Bulgan^^A
 UGC^Urgench^^UZ^^^UGC^International^5157^A
 UGI^Uganik^AK^US^5^^UGI^San Juan (Uganik) SPB^5158^A
+UGL^antartica^^AQ^^^UGL^Union Glacier^^A
 UGN^Waukegan^IL^US^2^^UGN^Regional^^A
 UGO^Uige^^AO^^^UGO^Uige^5160^A
 UGS^Ugashik^AK^US^5^^UGS^Ugashik^^A
@@ -9514,6 +9524,7 @@ UUS^Yuzhno-Sakhalinsk^^RU^10^^UUS^Khomutovo^5883^A
 UUU^Manumu^^PG^1^^UUU^Manumu^5229^A
 UVA^Uvalde^TX^US^2^^UVA^Garner Field^5230^A
 UVE^Ouvea^^NC^^^UVE^Ouloup^5231^A
+UVI^Uniao da Vitoria^PR^BR^1^^UVI^Uniao da Vitoria^^A
 UVL^Kharga^^EG^^^UVL^Kharga^5233^A
 UVO^Uvol^^PG^1^^UVO^Uvol^5234^A
 UWA^Ware^MA^US^1^^UWA^Ware^^A
@@ -9521,6 +9532,7 @@ UWC^Worcester^^GB^^^UWC^Railway Station^^R
 UWP^Wuppertal^^DE^^^UWP^Hbf Railway Station^^R
 UYL^Nyala^^SD^^^UYL^Nyala^5235^A
 UYN^Yulin^^CN^^^UYN^Yuyang^5236^A
+UYN^Yulin^^CN^^^YLX^Yulin Fumian^^A
 UYU^Uyuni^^BO^^^UYU^Uyuni^^A
 UZC^Uzice^^RS^^^UZC^Ponikve^^A
 UZM^Hope Bay^NU^CA^5^^JOJ^Doris Lake Ice A/P^^A
@@ -9989,6 +10001,7 @@ WYB^Yes Bay^AK^US^5^^WYB^Yes Bay Lodge SPB^^A
 WYE^Yengema^^SL^^^WYE^Yengema^5511^A
 WYN^Wyndham^WA^AU^4^^WYN^Wyndham^5512^A
 WYS^West Yellowstone^MT^US^3^^WYS^Yellowstone^5513^A
+WZA^Wa^^GH^^^WZA^Wa^^A
 WZQ^Urad Middle Banner^^CN^^^WZQ^Urad Middle Banner^^A
 XAB^Abbeville^^FR^^^XAB^Off-line Point^^O
 XAC^Arcachon^^FR^^^XAC^Off-line Point^^O
@@ -10851,7 +10864,6 @@ YSP^Marathon^ON^CA^3^^YSP^Marathon^^A
 YSQ^Songyuan^^CN^^^YSQ^Chaganhu^^A
 YST^St Theresa Point^MB^CA^4^^YST^St Theresa Point^5732^A
 YSU^Summerside^PE^CA^2^^YSU^Summerside^5733^A
-YSW^Salluit^QC^CA^3^^YZG^Salluit^5798^A
 YSY^Sachs Harbour^NT^CA^5^^YSY^D.Nasogaluak Saaryuaq^^A
 YTA^Pembroke^ON^CA^3^^YTA^Pembroke^^A
 YTB^Hartley Bay^BC^CA^6^^YTB^SPB^^A
@@ -10970,6 +10982,7 @@ YYY^Mont-Joli^QC^CA^3^^YYY^Mont-Joli^5795^A
 YZA^Cache Creek/Ashcroft^BC^CA^6^^YZA^Regional^^A
 YZE^Gore Bay^ON^CA^3^^YZE^Manitoulin^^A
 YZF^Yellowknife^NT^CA^5^^YZF^Yellowknife^5797^A
+YZG^Salluit^QC^CA^3^^YZG^Salluit^5798^A
 YZH^Slave Lake^AB^CA^5^^YZH^Slave Lake^5799^A
 YZP^Sandspit^BC^CA^6^^YZP^Sandspit^5800^A
 YZR^Sarnia^ON^CA^3^^XDX^Railway Station^^R
@@ -11150,6 +11163,7 @@ ZHS^Klosters^^CH^^^ZHS^Railway Station^^R
 ZHU^Kreuzlingen^^CH^^^ZHU^Railway Station^^R
 ZHV^La Chaux-de-Fonds^^CH^^^ZHV^Railway Station^^R
 ZHW^Langenthal^^CH^^^ZHW^Railway Station^^R
+ZHX^Tubarao^SC^BR^1^^ZHX^Off-line Point^^O
 ZHY^Zhongwei^^CN^^^ZHY^Xiangshan^^A
 ZIA^Zhukovsky^^RU^2^^ZIA^Zhukovsky^^A
 ZIB^Nyborg^^DK^^^ZIB^Railway Station^^R
