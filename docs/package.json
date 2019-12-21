@@ -31,24 +31,24 @@
   },
   "homepage": "https://benct.github.io/iata-utils",
   "devDependencies": {
-    "@babel/core": "^7.5.5",
-    "@babel/preset-env": "^7.5.5",
-    "@babel/preset-react": "^7.0.0",
+    "@babel/core": "^7.7.7",
+    "@babel/preset-env": "^7.7.7",
+    "@babel/preset-react": "^7.7.4",
     "babel-loader": "^8.0.6",
-    "eslint": "^6.3.0",
-    "eslint-config-prettier": "^6.1.0",
-    "eslint-plugin-prettier": "^3.1.0",
-    "eslint-plugin-react": "^7.14.3",
-    "prettier": "^1.18.2",
-    "webpack": "^4.39.3",
-    "webpack-cli": "^3.3.7",
-    "webpack-dev-server": "^3.8.0",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-react": "^7.17.0",
+    "prettier": "^1.19.1",
+    "webpack": "^4.41.4",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1",
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
-    "core-js": "^3.2.1",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
+    "core-js": "^3.6.0",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
     "regenerator-runtime": "^0.13.3"
   }
 }
