@@ -47,10 +47,11 @@ iata_code^icao_code^name^alias
 2M^MYD^Maya Island Air^
 2N^NTJ^Nextjet^
 2O^RNE^Redemption^
-2P^GAP^Airphil Express^
+2P^GAP^PAL Express^
 2Q^SNC^Air Cargo Carriers^
 2R^VRR^VIA Rail Canada^
 2S^^Air Carnival^
+2T^TBS^Timbis Air^
 2U^ERO^Ero Sun d'Or^
 2V^^Amtrak^
 2Z^PTB^Passaredo Transportes^
@@ -68,9 +69,8 @@ iata_code^icao_code^name^alias
 3M^GFT^Silver Airways^
 3N^URG^Air Urga^Airvantage
 3O^MAC^Air Arabia Maroc^
-3P^^Tiara Air Aruba^Tiara Air
 3Q^^Carib Aviation Limited^Yunnan Air
-3R^RGR^Avior Regional^
+3R^DVR^Divi Divi Air^
 3S^^Air Antilles Express^
 3T^TRQ^Tarco Air^Turan Air
 3U^CSC^Sichuan Airlines^
@@ -83,7 +83,7 @@ iata_code^icao_code^name^alias
 4C^ARE^LATAM Colombia^
 4D^ASD^Air Sinai^
 4E^TNR^Tanana Air Service^
-4F^ECE^Air City^
+4F^FDT^Freedom Airline Express^
 4G^GZP^Gazpromavia^
 4H^^United Airways Bangladesh^Trans Pacific
 4I^IZM^Ihy Izmir Havayollari^
@@ -126,7 +126,7 @@ iata_code^icao_code^name^alias
 5W^^WESTBahn^
 5X^UPS^UPS Airlines^
 5Y^GTI^Atlas Air^
-5Z^^CemAir^
+5Z^KEM^CemAir^
 6A^AMW^Armenia Airways^
 6B^BLX^Tuifly Nordic^Britannia
 6C^^Air Timor^
@@ -168,7 +168,7 @@ iata_code^icao_code^name^alias
 7P^PST^Air Panama^
 7Q^^Elite Airways^
 7R^RLU^RusLine^
-7S^RYA^Ryan Air Services^Arctic Transportation Services
+7S^RYA^Ryan Air Services^
 7T^^Trenitalia^
 7U^^Alpha Air Transport^
 7V^^Federal Airlines^Federal Airlines
@@ -353,7 +353,7 @@ DS^EZS^easyJet Switzerland^
 DT^DTA^Taag^
 DU^NLH^Norwegian Long Haul^
 DV^VSV^SCAT Airlines^
-DW^UCR^Aero Charter^Helicopter Sh
+DW^GDE^Great Dane Airlines^
 DX^DTR^Danish Air Transport^
 DY^NAX^Norwegian Air Shuttle (NAS)^
 DZ^^Donghai Airlines^
@@ -368,7 +368,7 @@ E9^EVE^Evelop Airlines^
 EB^PLM^Wamos Air^Pullmantur Air
 EC^BOS^OpenSkies^
 ED^AXE^Air Explore^Airblue
-EE^^Aero Airlines^
+EE^EST^Nordica^
 EF^^Fly CamInter^
 EG^ETJ^East Air^Japan Asia
 EH^AKX^ANA Wings^
@@ -405,7 +405,7 @@ FG^AFG^Ariana Afghan Airlines^Ariana
 FH^FHY^Freebird Airlines^Futura Intl
 FI^ICE^Icelandair^
 FJ^FJI^Fiji Airways^Fiji Airways
-FK^^Africa West Cargo Ghd^
+FK^KFA^Kelowna Flightcraft Air Charter^
 FL^TRS^Airtran Airways^
 FM^CSH^Shanghai Airlines^
 FN^FTZ^Fastjet^
@@ -419,7 +419,7 @@ FW^IBX^Ibex Airlines^
 FX^FXA^Fedex^Express Air
 FY^FFM^Flyfirefly^
 FZ^FDB^flydubai^Dubai Aviation Corporation
-G2^VXG^Jet Express^Avirex Gabon
+G2^^Galeyr Airline^
 G3^GLO^Gol Transportes Aéreos^
 G4^AAY^Allegiant Air^
 G5^HXA^China Express Airlines^
@@ -461,7 +461,7 @@ H8^^Chilejet^
 H9^HIM^Himalaya Airlines^
 HA^HAL^Hawaiian Airlines^
 HB^AAQ^Asia Atlantic Airlines^
-HC^^Holidays Czech Airlines^Aero Tropics
+HC^SZN^Air Senegal^
 HD^ADO^Air Do^Hokkaido International Airlines
 HE^^LGW Luftfahrtges Walter^
 HF^^Air Cote D Ivoire^Aircoteivoire
@@ -560,7 +560,7 @@ KB^DRK^Druk Air^
 KC^KZR^Air Astana^
 KD^WGN^Western Global Airlines^
 KE^KAL^Korean Air^
-KF^BLF^Blue1^
+KF^ABB^Air Belgium^
 KG^GTV^Aerogaviota^King Island
 KH^AAH^Aloha Air Cargo^
 KI^^KrasAvia^
@@ -576,6 +576,7 @@ KR^EAA^Air Bishkek^
 KS^PEN^Penair^Pen Air
 KT^^Fly Kiss^
 KU^KAC^Kuwait Airways^
+KV^SKV^Sky Regional Airlines^
 KW^^Kharkiv Airlines^
 KX^CAY^Cayman Airways^
 KY^KNA^Kunming Airlines^
@@ -656,7 +657,6 @@ NC^JTE^Cobham Aviation Services Australia^
 ND^FMI^FMI Air^
 NE^NMA^Nesma Airlines^
 NF^AVN^Air Vanuatu^
-NG^NIG^Aero Contractors^
 NH^ANA^All Nippon Airways^ANA
 NI^PGA^Portugalia^Portugália–Companhia Portuguesa de Transportes Aéreos
 NJ^^Niger Airways^
@@ -667,7 +667,7 @@ NN^MOV^Vim Airlines^
 NO^NOS^Neos^
 NP^NIA^Nile Air^Nile Air
 NQ^AJX^Air Japan^
-NR^^Al-Naser Airlines^
+NR^MAV^Manta Air^
 NS^^Hebei Airlines^Caucasus Air
 NT^IBB^Binter Canarias^
 NU^JTA^Japan Transocean Air^Japan Transoc
@@ -712,7 +712,6 @@ P3^CLU^CargoLogicAir^
 P4^^Aerolineas Sosa^
 P5^RPB^Copa Airlines Colombia^AeroRepública
 P6^PSC^Pascan Aviation^
-P7^LLP^Small Planet Airline^East Line Air
 P8^SRN^SprintAir^
 P9^PVN^Peruvian Airlines^
 PA^ABQ^Airblue^Florida Coast
@@ -743,7 +742,7 @@ PY^SLM^Surinam Airways^Surinam Air
 PZ^LAP^LATAM Paraguay^
 Q0^^Quebecair Express^
 Q1^^Sqiva Sistem^
-Q2^SOY^Island Aviation^
+Q2^DQA^Maldivian^
 Q3^AAS^Anguilla Air Services^
 Q4^^Aviation Starlink^Swazi Express
 Q5^MLA^Forty Mile Air^
@@ -777,7 +776,7 @@ QY^^European Air Transport^
 QZ^AWQ^Indonesia AirAsia^Awair
 R0^^MS Royal Airlines^
 R3^SYL^Yakutia Airlines^
-R4^RLB^Reliable Unique Services^Stc Russia
+R4^RLT^Real Tonga^
 R5^JAV^Jordan Aviation^
 R6^DNU^DOT LT^
 R7^OCA^Aserca^Aserca
@@ -786,7 +785,6 @@ R9^TSD^TAF Linhas Aereas^Air Charter
 RA^RNA^Nepal Airlines^
 RB^SYR^Syrian Arab Airlines^
 RC^FLI^Atlantic Airways^
-RD^^French Military Force^Ryan
 RE^STK^Stobart Air^Aer Arann
 RF^^Ord Air Charter^
 RG^RJD^Rotana Jet^
@@ -859,6 +857,7 @@ TD^^Atlantis European Airways^Atlantis
 TE^IGA^Sky Taxi^
 TF^BRA^BRA^
 TG^THA^Thai Airways^
+TH^RMY^Raya Airways^
 TI^TWI^Tailwind Hava Yollari As^Baltic Int
 TJ^GPD^Tradewind Aviation^
 TK^THY^Turkish Airlines^
@@ -908,7 +907,6 @@ US^AWE^US Airways^
 UT^UTA^UTair Aviation^UTair
 UU^REU^Air Austral^
 UV^^Helicopteros Del Sureste^
-UW^UVG^Universal Airlines^
 UX^AEA^Air Europa^
 UY^SPD^Sky Prime Charter^
 UZ^BRQ^Buraq Air^
@@ -949,7 +947,6 @@ VZ^TVJ^Thai Vietjet Air^
 W1^^WorldTicket^
 W2^FXT^Flexflight^Flexflight
 W3^ARA^Arik Air^
-W4^^LC Perú^LC Busre
 W5^IRM^Mahan Airlines^
 W6^WZZ^Wizz Air^
 W7^SAH^Sayakhat Airlines^Sayakhat Air

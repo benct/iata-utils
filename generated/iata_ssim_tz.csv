@@ -220,7 +220,7 @@ RU1^Asia/Anadyr
 RU2^Europe/Moscow
 RU3^Europe/Saratov
 RU4^Asia/Yekaterinburg
-RU5^Asia/Tomsk
+RU5^Asia/Omsk
 RU6^Asia/Krasnoyarsk
 RU7^Asia/Irkutsk
 RU8^Asia/Yakutsk
@@ -290,5 +290,7 @@ ZM^Africa/Lusaka
 ZW^Africa/Harare
 ZZ1^Europe/Paris
 ZZ2^Asia/Manila
+ZZ3^America/Chicago
 ZZ4^Asia/Manila
-ZZ^America/Los_Angeles
+ZZ5^America/Chicago
+ZZ^America/Moncton
