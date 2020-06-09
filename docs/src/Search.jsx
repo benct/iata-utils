@@ -15,9 +15,9 @@ export default class Search extends React.Component {
         const query = document.location.search
             .substr(1)
             .split('&')
-            .map(it => it.split('='))
-            .filter(it => it[0] === 'code')
-            .map(it => it[1])
+            .map((it) => it.split('='))
+            .filter((it) => it[0] === 'code')
+            .map((it) => it[1])
             .shift();
 
         if (query) {
@@ -45,10 +45,10 @@ export default class Search extends React.Component {
         this.setState({ loading: true });
 
         return fetch(`https://api.tomlin.no/iata/search/${query}`)
-            .then(response => (response.ok ? response : Promise.reject(`${response.status}: ${response.statusText}`)))
-            .then(response => (response.status === 200 ? response.json() : []))
-            .then(response => this.setState({ data: response, loading: false }))
-            .catch(error => {
+            .then((response) => (response.ok ? response : Promise.reject(`${response.status}: ${response.statusText}`)))
+            .then((response) => (response.status === 200 ? response.json() : []))
+            .then((response) => this.setState({ data: response, loading: false }))
+            .catch((error) => {
                 this.setState({ loading: false });
                 console.log(error); // eslint-disable-line
             });
@@ -173,7 +173,7 @@ export default class Search extends React.Component {
                         aria-label="Search"
                         maxLength="3"
                         value={this.state.query}
-                        onClick={event => event.target.select()}
+                        onClick={(event) => event.target.select()}
                         onChange={this.handleChange.bind(this)}
                         onKeyPress={this.handleKey.bind(this)}
                     />
