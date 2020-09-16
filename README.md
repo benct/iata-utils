@@ -70,6 +70,7 @@ java -jar build/iata.jar
 Make changes to the javascript app and run the following commands.
 
 ```bash
+yarn install
 yarn clean
 yarn lint
 yarn build-prod
