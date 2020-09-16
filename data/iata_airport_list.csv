@@ -407,6 +407,7 @@ ARA^New Iberia^LA^US^2^^ARA^Acadiana Regional^^A
 ARB^Ann Arbor^MI^US^1^^ARB^Municipal^0238^A
 ARC^Arctic Village^AK^US^5^^ARC^Arctic Village^0239^A
 ARD^Alor^^ID^2^^ARD^Mali^^A
+ARD^Alor^^ID^2^^AXO^Pantar^^A
 ARE^Arecibo^^PR^^^ARE^Antonio Juarbe Pol^0240^A
 ARF^Acaricuara^^CO^^^ARF^Acaricuara^^A
 ARG^Walnut Ridge^AR^US^2^^ARG^Regional^0241^A
@@ -1301,9 +1302,6 @@ CAO^Clayton^NM^US^3^^CAO^Municipal Airpark^^A
 CAP^Cap-Haitien^^HT^^^CAP^Hugo Chavez Intl^0792^A
 CAQ^Caucasia^^CO^^^CAQ^Juan H. White^0793^A
 CAR^Caribou^ME^US^1^^CAR^Municipal^^A
-CAS^Casablanca^^MA^^^CAS^Anfa^0794^A
-CAS^Casablanca^^MA^^^CAS^Metropolitan Area^^C
-CAS^Casablanca^^MA^^^CMN^Mohammed V^0973^A
 CAT^Cascais^^PT^1^^CAT^Tires^^A
 CAU^Caruaru^PE^BR^1^^CAU^Oscar Laranjeiras^^A
 CAV^Cazombo^^AO^^^CAV^Cazombo^0795^A
@@ -1442,7 +1440,7 @@ CGI^Cape Girardeau^MO^US^2^^CGI^Regional^0881^A
 CGJ^Chingola^^ZM^^^CGJ^Kasompe^^A
 CGM^Camiguin Island^^PH^^^CGM^Mambajao^^A
 CGN^Cologne/Bonn^^DE^^^BNJ^Bonn Hbf Railway Stn^^R
-CGN^Cologne/Bonn^^DE^^^CGN^Airport^^A
+CGN^Cologne/Bonn^^DE^^^CGN^Airport^6028^A
 CGN^Cologne/Bonn^^DE^^^QBB^Bonn Thomastr. Bus Stn^^B
 CGN^Cologne/Bonn^^DE^^^QKL^Cologne Hbf Rail Stn^^R
 CGN^Cologne/Bonn^^DE^^^QKU^Messe/Deutz Rail Stn^^R
@@ -1534,6 +1532,7 @@ CKG^Chongqing^^CN^^^CKF^Shapingba Railway Stn.^^R
 CKG^Chongqing^^CN^^^CKG^Jiangbei Intl^0936^A
 CKG^Chongqing^^CN^^^CKJ^Xi Railway Station^^R
 CKG^Chongqing^^CN^^^CKP^Chongqingbei Rail Stn.^^R
+CKG^Chongqing^^CN^^^YGA^YongchuanDa'an General^^A
 CKH^Chokurdakh^^RU^10^^CKH^Chokurdakh^^A
 CKI^Croker Island^NT^AU^3^A^CKI^Croker Island^0937^A
 CKK^Ash Flat^AR^US^2^^CKK^Sharp County Regional^^A
@@ -1599,6 +1598,7 @@ CMJ^Qimei^^TW^^^CMJ^Qimei^^A
 CMK^Club Makokola^^MW^^^CMK^Club Makokola^^A
 CML^Camooweal^QL^AU^2^B^CML^Camooweal^0971^A
 CMM^Carmelita^^GT^^^CMM^Carmelita^0972^A
+CMN^Casablanca^^MA^^^CMN^Mohammed V^0973^A
 CMO^Obbia^^SO^^^CMO^Obbia^0974^A
 CMP^Santana do Araguaia^PA^BR^1^^CMP^Santana do Araguaia^0975^A
 CMQ^Clermont^QL^AU^2^B^CMQ^Clermont^0976^A
@@ -3280,7 +3280,6 @@ HGH^Hangzhou^^CN^^^HGH^Xiaoshan Intl^1929^A
 HGH^Hangzhou^^CN^^^HHL^Tourist Ctr. Bus Stn.^^B
 HGH^Hangzhou^^CN^^^HZD^Railway Station^^R
 HGH^Hangzhou^^CN^^^XZH^Econ.&Tech.Dev.Area^^O
-HGI^Higlieg^^SD^^^HGI^Higlieg^^A
 HGL^Helgoland^^DE^^^HGL^Duene^1930^A
 HGN^Mae Hong Son^^TH^^^HGN^Mae Hong Son^1931^A
 HGO^Korhogo^^CI^^^HGO^Korhogo^1932^A
@@ -3430,6 +3429,7 @@ HRS^Harrismith^^ZA^^^HRS^Harrismith^^A
 HRT^Harrogate^^GB^^^HRT^Linton-on-Ouse RAF^^A
 HRY^Henbury^NT^AU^3^A^HRY^Henbury^2012^A
 HRZ^Horizontina^RS^BR^1^^HRZ^Walter Bundchen^^A
+HSA^Turkistan^^KZ^2^^HSA^Turkistan International^^A
 HSB^Harrisburg^IL^US^2^^HSB^Raleigh^^A
 HSC^Shaoguan^^CN^^^HSC^Guitou^^A
 HSD^Huangshi^^CN^^^HSD^Railway Station^^R
@@ -3517,6 +3517,7 @@ HYN^Taizhou^^CN^^^HYN^Luqiao^^A
 HYR^Hayward^WI^US^2^^HYR^Sawyer County^2053^A
 HYS^Hays^KS^US^2^^HYS^Regional^2054^A
 HYV^Hyvinkaa^^FI^^^HYV^Hyvinkaa^^A
+HZA^Heze^^CN^^^HZA^Heze Mudan^^A
 HZB^Hazebrouck^^FR^^^HZB^Merville-Colonne^^A
 HZC^Huzhou^^CN^^^DEQ^Deqing Moganshan Gen.^^A
 HZC^Huzhou^^CN^^^HZC^Railway Station^^R
@@ -3816,6 +3817,7 @@ IXX^Bidar^KA^IN^^^IXX^Bidar^^A
 IXY^Kandla^GJ^IN^^^IXY^Kandla^2240^A
 IXZ^Port Blair^AN^IN^^^IXZ^Veer Savarkar Intl^2241^A
 IYK^Inyokern^CA^US^4^^IYK^Inyokern^2242^A
+IZE^Itzehoe^^DE^^^IZE^EDHF Airport^^A
 IZM^Izmir^^TR^^^ADB^Adnan Menderes^^A
 IZM^Izmir^^TR^^^IGL^Cigli AB^^A
 IZM^Izmir^^TR^^^IZM^Metropolitan Area^^C
@@ -3978,6 +3980,7 @@ JRK^Arsuk^^GL^1^^JRK^Heliport^^H
 JRN^Juruena^MT^BR^2^^JRN^Juruena^^A
 JRO^Kilimanjaro^^TZ^^^JRO^International^2327^A
 JRS^Jerusalem^^^^^JRS^Jerusalem^2328^A
+JRT^Juruti^^BR^1^^JRT^Juruti^^A
 JSA^Jaisalmer^RJ^IN^^^JSA^Jaisalmer^^A
 JSD^Stratford^CT^US^1^^JSD^Sikorsky Heliport^^H
 JSH^Siteia^^GR^^^JSH^Siteia^^A
@@ -5537,7 +5540,6 @@ MPF^Mapoda^^PG^1^^MPF^Mapoda^^A
 MPG^Makini^^PG^1^^MPG^Makini^^A
 MPH^Caticlan^^PH^^^MPH^Godofredo P. Ramos^^A
 MPI^Mamitupo^^PA^^^MPI^Mamitupo^^A
-MPJ^Morrilton^AR^US^2^^MPJ^Petit Jean Park^^A
 MPL^Montpellier^^FR^^^MPL^Mediterranee^3284^A
 MPL^Montpellier^^FR^^^XPJ^St-Roch Railway Stn^^R
 MPL^Montpellier^^FR^^^XPU^Sud de France^^R
@@ -6060,6 +6062,7 @@ NQT^Nottingham^^GB^^^XNM^Railway Station^^R
 NQT^Nottingham^^GB^^^ZGB^Bus Station^^B
 NQU^Nuqui^^CO^^^NQU^Reyes Murillo^3565^A
 NQY^Newquay^^GB^^^NQY^Cornwall^^A
+NQZ^Nur-Sultan^^KZ^2^^NQZ^Nursultan Nazarbayev^^A
 NRA^Narrandera^NS^AU^2^^NRA^Narrandera^3567^A
 NRB^Mayport^FL^US^1^^NRB^Naval Station^^A
 NRC^Crows Landing^CA^US^4^^NRC^Crows Landing^^A
@@ -6270,6 +6273,7 @@ OHS^Sohar^^OM^^^OHS^Sohar^^A
 OHT^Kohat^^PK^^^OHT^Kohat^3663^A
 OIA^Ourilandia do Norte^PA^BR^1^^OIA^Ourilandia do Norte^^A
 OIC^Norwich^NY^US^1^^OIC^Lt. Warren Eaton^^A
+OIL^Den Haag^^NL^^^OIL^Oil Platform De Ruyter P^^H
 OIM^Oshima^^JP^^^OIM^Oshima^3664^A
 OIR^Okushiri^^JP^^^OIR^Okushiri^3665^A
 OIT^Oita^^JP^^^OIT^Oita^3666^A
@@ -9203,7 +9207,6 @@ TRZ^Tiruchchirappalli^TN^IN^^^TRZ^Tiruchchirappalli^5048^A
 TSB^Tsumeb^^NA^^^TSB^Tsumeb^5050^A
 TSC^Taisha^^EC^1^^TSC^Taisha^5051^A
 TSD^Tshipise^^ZA^^^TSD^Tshipise^^A
-TSE^Nur-Sultan^^KZ^2^^TSE^Nursultan Nazarbayev^^A
 TSG^Tanacross^AK^US^5^^TSG^Tanacross^5052^A
 TSH^Tshikapa^^CD^2^^TSH^Tshikapa^5053^A
 TSI^Tsile Tsile^^PG^1^^TSI^Tsile Tsile^^A
@@ -9314,6 +9317,7 @@ TYF^Torsby^^SE^^^TYF^Torsby^^A
 TYG^Thylungra^QL^AU^2^B^TYG^Thylungra^5120^A
 TYL^Talara^^PE^^^TYL^Victor Monteas Arias^5121^A
 TYM^Staniel Cay^^BS^^^TYM^Staniel Cay^^A
+TYN^Taiyuan^^CN^^^TYC^Taiyuan Yaocheng^^A
 TYN^Taiyuan^^CN^^^TYN^Wusu Intl^5122^A
 TYO^Tokyo^^JP^^^HND^Tokyo Intl (Haneda)^1975^A
 TYO^Tokyo^^JP^^^LMJ^Bus Station^^B
@@ -9842,6 +9846,7 @@ WHL^Welshpool^VI^AU^2^^WHL^Welshpool^^A
 WHO^Franz Josef Glacier^^NZ^1^^WHO^Franz Josef Glacier^5409^A
 WHS^Whalsay^^GB^^^WHS^Whalsay^5411^A
 WHT^Wharton^TX^US^2^^WHT^Regional^5412^A
+WHU^Wuhu^^CN^^^WHA^Xuanzhou^^A
 WHU^Wuhu^^CN^^^WHU^Wuhu^^A
 WIB^Vernon^TX^US^2^^WIB^Wilbarger County^^A
 WIC^Wick^^GB^^^WIC^Wick^5413^A
