@@ -1203,7 +1203,6 @@ CAO^America/Denver
 CAP^America/Port-au-Prince
 CAQ^America/Bogota
 CAR^America/New_York
-CAS^Africa/Casablanca
 CAT^Europe/Lisbon
 CAU^America/Recife
 CAV^Africa/Luanda
@@ -1876,7 +1875,7 @@ DIJ^Europe/Paris
 DIK^America/Denver
 DIL^Asia/Dili
 DIM^Africa/Abidjan
-DIN^Asia/Ho_Chi_Minh
+DIN^Asia/Bangkok
 DIO^America/Nome
 DIP^Africa/Ouagadougou
 DIQ^America/Sao_Paulo
@@ -3006,7 +3005,7 @@ HAJ^Europe/Berlin
 HAK^Asia/Shanghai
 HAL^Africa/Windhoek
 HAM^Europe/Berlin
-HAN^Asia/Ho_Chi_Minh
+HAN^Asia/Bangkok
 HAO^America/New_York
 HAP^Australia/Brisbane
 HAQ^Indian/Maldives
@@ -3086,7 +3085,6 @@ HGA^Africa/Mogadishu
 HGD^Australia/Brisbane
 HGE^America/Caracas
 HGH^Asia/Shanghai
-HGI^Africa/Khartoum
 HGL^Europe/Berlin
 HGN^Asia/Bangkok
 HGO^Africa/Abidjan
@@ -3210,7 +3208,7 @@ HPA^Pacific/Tongatapu
 HPB^America/Nome
 HPE^Australia/Brisbane
 HPG^Asia/Shanghai
-HPH^Asia/Ho_Chi_Minh
+HPH^Asia/Bangkok
 HPN^America/New_York
 HPT^America/Chicago
 HPV^Pacific/Honolulu
@@ -3272,7 +3270,7 @@ HUE^Africa/Addis_Ababa
 HUF^America/Indiana/Indianapolis
 HUG^America/Guatemala
 HUH^Pacific/Tahiti
-HUI^Asia/Ho_Chi_Minh
+HUI^Asia/Bangkok
 HUJ^America/Chicago
 HUK^Africa/Gaborone
 HUL^America/New_York
@@ -5250,7 +5248,6 @@ MPF^Pacific/Port_Moresby
 MPG^Pacific/Port_Moresby
 MPH^Asia/Manila
 MPI^America/Panama
-MPJ^America/Chicago
 MPL^Europe/Paris
 MPM^Africa/Maputo
 MPN^Atlantic/Stanley
@@ -5751,6 +5748,7 @@ NQT^Europe/London
 NQU^America/Bogota
 NQX^America/New_York
 NQY^Europe/London
+NQZ^Asia/Almaty
 NRA^Australia/Sydney
 NRB^America/New_York
 NRC^America/Los_Angeles
@@ -5949,6 +5947,7 @@ OHS^Asia/Muscat
 OHT^Asia/Karachi
 OIA^America/Santarem
 OIC^America/New_York
+OIL^America/New_York
 OIM^Asia/Tokyo
 OIR^Asia/Tokyo
 OIT^Asia/Tokyo
@@ -8088,7 +8087,7 @@ SQD^Asia/Shanghai
 SQE^America/Bogota
 SQF^America/Bogota
 SQG^Asia/Pontianak
-SQH^Asia/Ho_Chi_Minh
+SQH^Asia/Bangkok
 SQI^America/Chicago
 SQJ^Asia/Shanghai
 SQK^Africa/Cairo
@@ -8489,7 +8488,7 @@ TGZ^America/Mexico_City
 THA^America/Chicago
 THB^Africa/Maseru
 THC^Africa/Monrovia
-THD^Asia/Ho_Chi_Minh
+THD^Asia/Bangkok
 THE^America/Fortaleza
 THG^Australia/Brisbane
 THH^Pacific/Auckland
@@ -8737,7 +8736,6 @@ TSA^Asia/Taipei
 TSB^Africa/Windhoek
 TSC^America/Guayaquil
 TSD^Africa/Johannesburg
-TSE^Asia/Almaty
 TSF^Europe/Rome
 TSG^America/Anchorage
 TSH^Africa/Lubumbashi
@@ -9123,10 +9121,10 @@ VDA^Asia/Jerusalem
 VDB^Europe/Oslo
 VDC^America/Bahia
 VDE^Atlantic/Canary
-VDH^Asia/Ho_Chi_Minh
+VDH^Asia/Bangkok
 VDI^America/New_York
 VDM^America/Argentina/Salta
-VDO^Asia/Ho_Chi_Minh
+VDO^Asia/Bangkok
 VDP^America/Caracas
 VDR^America/Argentina/Cordoba
 VDS^Europe/Oslo
@@ -9161,7 +9159,7 @@ VIE^Europe/Vienna
 VIF^Europe/Rome
 VIG^America/Caracas
 VIH^America/Chicago
-VII^Asia/Ho_Chi_Minh
+VII^Asia/Bangkok
 VIJ^America/Tortola
 VIL^Africa/Casablanca
 VIN^Europe/Kiev
@@ -9810,7 +9808,7 @@ XLJ^America/Toronto
 XLL^Europe/Paris
 XLM^America/Toronto
 XLN^Europe/Paris
-XLO^Asia/Ho_Chi_Minh
+XLO^Asia/Bangkok
 XLP^America/Moncton
 XLQ^America/Toronto
 XLR^Europe/Paris
@@ -10264,6 +10262,7 @@ YFR^America/Yellowknife
 YFS^America/Yellowknife
 YFT^Asia/Macau
 YFX^America/St_Johns
+YGA^America/Montreal
 YGB^America/Vancouver
 YGC^America/Vancouver
 YGE^America/Vancouver
