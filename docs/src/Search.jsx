@@ -44,7 +44,7 @@ export default class Search extends React.Component {
     search(query) {
         this.setState({ loading: true });
 
-        return fetch(`https://api.tomlin.no/iata/search/${query}`)
+        return fetch(`https://api.tomlin.no/iata/search/${query}`, { headers: { 'Client-Id': 'iata-utils' } })
             .then((response) => (response.ok ? response : Promise.reject(`${response.status}: ${response.statusText}`)))
             .then((response) => (response.status === 200 ? response.json() : []))
             .then((response) => this.setState({ data: response, loading: false }))
