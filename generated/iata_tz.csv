@@ -142,7 +142,7 @@ AGI^America/Paramaribo
 AGJ^Asia/Tokyo
 AGK^Pacific/Port_Moresby
 AGL^Pacific/Port_Moresby
-AGM^America/Godthab
+AGM^America/Nuuk
 AGN^America/Juneau
 AGO^America/Chicago
 AGP^Europe/Madrid
@@ -204,7 +204,7 @@ AJL^Asia/Kolkata
 AJN^Indian/Comoro
 AJR^Europe/Stockholm
 AJS^America/Hermosillo
-AJU^America/Noronha
+AJU^America/Maceio
 AJY^Africa/Niamey
 AKA^Asia/Shanghai
 AKB^America/Adak
@@ -225,7 +225,7 @@ AKP^America/Anchorage
 AKQ^Asia/Jakarta
 AKR^Africa/Lagos
 AKS^Pacific/Guadalcanal
-AKT^Europe/London
+AKT^Asia/Nicosia
 AKU^Asia/Urumqi
 AKV^America/Toronto
 AKW^Asia/Tehran
@@ -323,7 +323,7 @@ AOM^Asia/Muscat
 AON^Pacific/Port_Moresby
 AOO^America/New_York
 AOP^America/Lima
-AOQ^America/Godthab
+AOQ^America/Nuuk
 AOR^Asia/Kuala_Lumpur
 AOS^America/Anchorage
 AOT^Europe/Rome
@@ -424,7 +424,7 @@ ATI^America/Montevideo
 ATJ^Indian/Antananarivo
 ATK^America/Anchorage
 ATL^America/New_York
-ATM^America/Manaus
+ATM^America/Santarem
 ATN^Pacific/Port_Moresby
 ATO^America/New_York
 ATP^Pacific/Port_Moresby
@@ -504,6 +504,7 @@ AXK^Asia/Aden
 AXL^Australia/Darwin
 AXM^America/Bogota
 AXN^America/Chicago
+AXO^Asia/Makassar
 AXP^America/Nassau
 AXR^Pacific/Tahiti
 AXS^America/Chicago
@@ -535,6 +536,7 @@ AZB^Pacific/Port_Moresby
 AZD^Asia/Tehran
 AZG^America/Mexico_City
 AZI^Asia/Dubai
+AZJ^Asia/Shanghai
 AZL^America/Cuiaba
 AZM^Asia/Macau
 AZN^Asia/Tashkent
@@ -918,7 +920,7 @@ BON^America/Kralendijk
 BOO^Europe/Oslo
 BOP^Africa/Bangui
 BOQ^Pacific/Port_Moresby
-BOR^Europe/Paris
+BOR^Asia/Vientiane
 BOS^America/New_York
 BOT^Pacific/Port_Moresby
 BOU^Europe/Paris
@@ -936,7 +938,7 @@ BPG^America/Cuiaba
 BPH^Asia/Manila
 BPI^America/Denver
 BPK^Pacific/Port_Moresby
-BPL^Asia/Urumqi
+BPL^Asia/Shanghai
 BPM^Asia/Kolkata
 BPN^Asia/Makassar
 BPO^Asia/Shanghai
@@ -973,6 +975,7 @@ BRC^America/Argentina/Salta
 BRD^America/Chicago
 BRE^Europe/Berlin
 BRF^Europe/London
+BRG^Asia/Makassar
 BRH^Pacific/Port_Moresby
 BRI^Europe/Rome
 BRJ^Australia/Melbourne
@@ -1039,7 +1042,7 @@ BTS^Europe/Bratislava
 BTT^America/Anchorage
 BTU^Asia/Kuching
 BTV^America/New_York
-BTW^Asia/Jakarta
+BTW^Asia/Makassar
 BTX^Australia/Brisbane
 BTY^America/Los_Angeles
 BUA^Pacific/Bougainville
@@ -1235,6 +1238,7 @@ CBV^America/Guatemala
 CBW^America/Sao_Paulo
 CBX^Australia/Sydney
 CBY^Australia/Brisbane
+CBZ^Asia/Shanghai
 CCA^America/Chicago
 CCB^America/Los_Angeles
 CCC^America/Havana
@@ -1293,8 +1297,9 @@ CEF^America/New_York
 CEG^Europe/London
 CEH^Africa/Blantyre
 CEI^Asia/Bangkok
-CEJ^Europe/Kiev
+CEJ^Europe/Kyiv
 CEK^Asia/Yekaterinburg
+CEL^America/Sao_Paulo
 CEM^America/Anchorage
 CEN^America/Hermosillo
 CEO^Africa/Luanda
@@ -1329,6 +1334,7 @@ CFT^America/Phoenix
 CFU^Europe/Athens
 CFV^America/Chicago
 CFW^Europe/London
+CFZ^Asia/Shanghai
 CGA^America/Juneau
 CGB^America/Cuiaba
 CGC^Pacific/Port_Moresby
@@ -1393,7 +1399,7 @@ CIO^America/Asuncion
 CIP^Africa/Lusaka
 CIQ^America/Guatemala
 CIR^America/Chicago
-CIS^Pacific/Enderbury
+CIS^Pacific/Kanton
 CIT^Asia/Almaty
 CIU^America/Detroit
 CIW^America/St_Vincent
@@ -1410,12 +1416,12 @@ CJJ^Asia/Seoul
 CJL^Asia/Karachi
 CJM^Asia/Bangkok
 CJN^Asia/Jakarta
-CJS^America/Ojinaga
+CJS^America/Ciudad_Juarez
 CJT^America/Mexico_City
 CJU^Asia/Seoul
 CKA^America/Chicago
 CKB^America/New_York
-CKC^Europe/Kiev
+CKC^Europe/Kyiv
 CKD^America/Anchorage
 CKE^America/Los_Angeles
 CKF^Asia/Shanghai
@@ -1631,7 +1637,7 @@ CTI^Africa/Luanda
 CTJ^Europe/Rome
 CTK^America/Chicago
 CTL^Australia/Brisbane
-CTM^America/Merida
+CTM^America/Cancun
 CTN^Australia/Brisbane
 CTO^America/New_York
 CTP^America/Fortaleza
@@ -1687,7 +1693,7 @@ CVT^Europe/London
 CVU^Atlantic/Azores
 CWA^America/Chicago
 CWB^America/Sao_Paulo
-CWC^Europe/Uzhgorod
+CWC^Europe/Kyiv
 CWF^America/Chicago
 CWI^America/Chicago
 CWJ^Asia/Shanghai
@@ -1787,6 +1793,7 @@ DBN^America/New_York
 DBO^Australia/Sydney
 DBP^Pacific/Port_Moresby
 DBQ^America/Chicago
+DBR^Asia/Kolkata
 DBS^America/Boise
 DBT^Africa/Addis_Ababa
 DBU^Asia/Colombo
@@ -1834,6 +1841,7 @@ DET^America/Detroit
 DEX^Asia/Jayapura
 DEY^Asia/Shanghai
 DEZ^Asia/Damascus
+DFA^Asia/Shanghai
 DFI^America/New_York
 DFP^Australia/Brisbane
 DFW^America/Chicago
@@ -1938,9 +1946,9 @@ DNB^Australia/Brisbane
 DND^Europe/London
 DNF^Africa/Tripoli
 DNG^Australia/Perth
-DNH^Asia/Urumqi
+DNH^Asia/Shanghai
 DNI^Africa/Khartoum
-DNK^Europe/Zaporozhye
+DNK^Europe/Kyiv
 DNL^America/New_York
 DNM^Australia/Perth
 DNN^America/New_York
@@ -1961,7 +1969,7 @@ DOE^America/Paramaribo
 DOG^Africa/Khartoum
 DOH^Asia/Qatar
 DOI^Pacific/Port_Moresby
-DOK^Europe/Zaporozhye
+DOK^Europe/Kyiv
 DOL^Europe/Paris
 DOM^America/Dominica
 DON^America/Guatemala
@@ -2247,7 +2255,7 @@ ENL^America/Chicago
 ENN^America/Anchorage
 ENO^America/Asuncion
 ENS^Europe/Amsterdam
-ENT^Pacific/Pohnpei
+ENT^Pacific/Kwajalein
 ENU^Africa/Lagos
 ENV^America/Denver
 ENW^America/Chicago
@@ -2272,7 +2280,7 @@ EQS^America/Argentina/Catamarca
 ERA^Africa/Mogadishu
 ERB^Australia/Adelaide
 ERC^Europe/Istanbul
-ERD^Europe/Zaporozhye
+ERD^Europe/Kyiv
 ERE^Pacific/Port_Moresby
 ERF^Europe/Berlin
 ERG^Asia/Irkutsk
@@ -2280,7 +2288,7 @@ ERH^Africa/Casablanca
 ERI^America/New_York
 ERL^Asia/Shanghai
 ERM^America/Sao_Paulo
-ERN^America/Manaus
+ERN^America/Eirunepe
 ERO^America/Juneau
 ERQ^Australia/Brisbane
 ERR^America/New_York
@@ -2833,7 +2841,7 @@ GOB^Africa/Addis_Ababa
 GOC^Pacific/Port_Moresby
 GOE^Pacific/Port_Moresby
 GOG^Africa/Windhoek
-GOH^America/Godthab
+GOH^America/Nuuk
 GOI^Asia/Kolkata
 GOJ^Europe/Moscow
 GOK^America/Chicago
@@ -2921,7 +2929,7 @@ GTW^Europe/Prague
 GTY^America/New_York
 GTZ^Africa/Dar_es_Salaam
 GUA^America/Guatemala
-GUB^America/Tijuana
+GUB^America/Mazatlan
 GUC^America/Denver
 GUD^Africa/Bamako
 GUE^Pacific/Port_Moresby
@@ -3162,10 +3170,11 @@ HMB^Africa/Cairo
 HME^Africa/Algiers
 HMG^Australia/Darwin
 HMI^Asia/Urumqi
-HMJ^Europe/Kiev
+HMJ^Europe/Kyiv
 HMN^America/Denver
 HMO^America/Hermosillo
 HMR^Europe/Oslo
+HMS^Asia/Pontianak
 HMT^America/Los_Angeles
 HMV^Europe/Stockholm
 HMY^Asia/Seoul
@@ -3219,7 +3228,7 @@ HRC^Asia/Almaty
 HRE^Africa/Harare
 HRG^Africa/Cairo
 HRI^Asia/Colombo
-HRK^Europe/Zaporozhye
+HRK^Europe/Kyiv
 HRL^America/Chicago
 HRM^Africa/Algiers
 HRN^Australia/Brisbane
@@ -3229,6 +3238,7 @@ HRS^Africa/Johannesburg
 HRT^Europe/London
 HRY^Australia/Darwin
 HRZ^America/Sao_Paulo
+HSA^Asia/Almaty
 HSB^America/Chicago
 HSC^Asia/Shanghai
 HSD^Asia/Shanghai
@@ -3316,6 +3326,7 @@ HYN^Asia/Shanghai
 HYR^America/Chicago
 HYS^America/Chicago
 HYV^Europe/Helsinki
+HZA^Asia/Shanghai
 HZB^Europe/Paris
 HZC^Asia/Shanghai
 HZD^Asia/Shanghai
@@ -3374,14 +3385,14 @@ IDY^Europe/Paris
 IEG^Europe/Warsaw
 IEJ^Asia/Tokyo
 IES^Europe/Berlin
-IEV^Europe/Kiev
+IEV^Europe/Kyiv
 IFA^America/Chicago
 IFF^Australia/Brisbane
 IFH^Asia/Tehran
 IFJ^Atlantic/Reykjavik
 IFL^Australia/Brisbane
 IFN^Asia/Tehran
-IFO^Europe/Uzhgorod
+IFO^Europe/Kyiv
 IFP^America/Phoenix
 IFU^Indian/Maldives
 IGA^America/Nassau
@@ -3412,7 +3423,7 @@ IJU^America/Sao_Paulo
 IJX^America/Chicago
 IKA^Asia/Tehran
 IKB^America/New_York
-IKE^America/Godthab
+IKE^America/Nuuk
 IKI^Asia/Tokyo
 IKK^America/Chicago
 IKL^Africa/Kinshasa
@@ -3486,10 +3497,10 @@ IOK^Pacific/Port_Moresby
 IOM^Europe/Isle_of_Man
 ION^Africa/Brazzaville
 IOP^Pacific/Port_Moresby
-IOQ^America/Godthab
+IOQ^America/Nuuk
 IOR^Europe/Dublin
 IOS^America/Bahia
-IOT^America/Godthab
+IOT^America/Nuuk
 IOW^America/Chicago
 IPA^Pacific/Efate
 IPC^Pacific/Easter
@@ -3549,7 +3560,7 @@ IST^Europe/Istanbul
 ISU^Asia/Baghdad
 ISW^America/Chicago
 ITA^America/Manaus
-ITB^America/Manaus
+ITB^America/Santarem
 ITE^America/Bahia
 ITH^America/New_York
 ITI^America/Sao_Paulo
@@ -3564,7 +3575,7 @@ ITR^America/Sao_Paulo
 ITT^Europe/Rome
 ITU^Asia/Magadan
 IUE^Pacific/Niue
-IUI^America/Godthab
+IUI^America/Nuuk
 IUL^Asia/Jayapura
 IUO^Asia/Shanghai
 IUS^Pacific/Bougainville
@@ -3608,6 +3619,7 @@ IXY^Asia/Kolkata
 IXZ^Asia/Kolkata
 IYK^America/Los_Angeles
 IZA^America/Sao_Paulo
+IZE^Europe/Berlin
 IZM^Europe/Istanbul
 IZO^Asia/Tokyo
 IZT^America/Mexico_City
@@ -3630,7 +3642,7 @@ JAR^Asia/Tehran
 JAS^America/Chicago
 JAT^Pacific/Majuro
 JAU^America/Lima
-JAV^America/Godthab
+JAV^America/Nuuk
 JAX^America/New_York
 JBB^Asia/Jakarta
 JBD^Asia/Shanghai
@@ -3643,18 +3655,20 @@ JBU^Europe/Madrid
 JCA^Europe/Paris
 JCB^America/Sao_Paulo
 JCE^America/Los_Angeles
-JCH^America/Godthab
+JCH^America/Nuuk
 JCI^America/Chicago
 JCJ^Asia/Seoul
 JCK^Australia/Brisbane
 JCM^America/Bahia
 JCN^Asia/Seoul
-JCR^America/Manaus
+JCR^America/Santarem
+JCS^America/Fortaleza
 JCT^America/Chicago
 JCU^Africa/Ceuta
 JCY^America/Chicago
 JDA^America/Los_Angeles
 JDB^America/Chicago
+JDE^Asia/Shanghai
 JDF^America/Sao_Paulo
 JDG^Asia/Seoul
 JDH^Asia/Kolkata
@@ -3669,7 +3683,7 @@ JEC^America/New_York
 JED^Asia/Riyadh
 JEE^America/Port-au-Prince
 JEF^America/Chicago
-JEG^America/Godthab
+JEG^America/Nuuk
 JEJ^Pacific/Kwajalein
 JEK^Africa/Lusaka
 JEQ^America/Bahia
@@ -3678,21 +3692,21 @@ JEV^Europe/Paris
 JFK^America/New_York
 JFM^Australia/Perth
 JFN^America/New_York
-JFR^America/Godthab
+JFR^America/Nuuk
 JGA^Asia/Kolkata
 JGB^Asia/Kolkata
 JGD^Asia/Shanghai
 JGE^Asia/Seoul
 JGN^Asia/Shanghai
-JGO^America/Godthab
+JGO^America/Nuuk
 JGQ^America/Chicago
-JGR^America/Godthab
+JGR^America/Nuuk
 JGS^Asia/Shanghai
 JHB^Asia/Kuala_Lumpur
 JHG^Asia/Shanghai
 JHL^America/Edmonton
 JHM^Pacific/Honolulu
-JHS^America/Godthab
+JHS^America/Nuuk
 JHW^America/New_York
 JIA^America/Cuiaba
 JIB^Africa/Djibouti
@@ -3717,7 +3731,7 @@ JJJ^Asia/Shanghai
 JJL^Asia/Shanghai
 JJM^Africa/Nairobi
 JJN^Asia/Shanghai
-JJU^America/Godthab
+JJU^America/Nuuk
 JKG^Europe/Stockholm
 JKH^Europe/Athens
 JKL^Europe/Athens
@@ -3745,8 +3759,8 @@ JNB^Africa/Johannesburg
 JNG^Asia/Shanghai
 JNI^America/Argentina/Buenos_Aires
 JNJ^Asia/Muscat
-JNN^America/Godthab
-JNS^America/Godthab
+JNN^America/Nuuk
+JNS^America/Nuuk
 JNU^America/Juneau
 JNX^Europe/Athens
 JNZ^Asia/Shanghai
@@ -3765,7 +3779,7 @@ JPA^America/Recife
 JPN^America/New_York
 JPR^America/Porto_Velho
 JPU^Europe/Paris
-JQA^America/Godthab
+JQA^America/Nuuk
 JQE^America/Panama
 JQF^Europe/Moscow
 JQJ^Asia/Shanghai
@@ -3776,11 +3790,13 @@ JRD^America/Los_Angeles
 JRF^Pacific/Honolulu
 JRG^Asia/Kolkata
 JRH^Asia/Kolkata
-JRK^America/Godthab
+JRK^America/Nuuk
 JRN^America/Cuiaba
 JRO^Africa/Dar_es_Salaam
 JRS^Asia/Jerusalem
+JRT^America/Santarem
 JSA^Asia/Kolkata
+JSB^America/Fortaleza
 JSD^America/New_York
 JSG^America/Los_Angeles
 JSH^Europe/Athens
@@ -3789,11 +3805,13 @@ JSJ^Asia/Shanghai
 JSK^Asia/Tehran
 JSL^America/New_York
 JSM^America/Argentina/Catamarca
+JSO^America/Fortaleza
 JSP^Asia/Seoul
 JSR^Asia/Dhaka
 JST^America/New_York
-JSU^America/Godthab
+JSU^America/Nuuk
 JSY^Europe/Athens
+JTA^America/Fortaleza
 JTC^America/Sao_Paulo
 JTI^America/Sao_Paulo
 JTR^Europe/Athens
@@ -3803,15 +3821,15 @@ JUB^Africa/Juba
 JUH^Asia/Shanghai
 JUI^Europe/Berlin
 JUJ^America/Argentina/Jujuy
-JUK^America/Godthab
+JUK^America/Nuuk
 JUL^America/Lima
 JUM^Asia/Kathmandu
 JUN^Australia/Brisbane
 JUO^America/Bogota
 JUR^Australia/Perth
 JUT^America/Tegucigalpa
-JUU^America/Godthab
-JUV^America/Godthab
+JUU^America/Nuuk
+JUV^America/Nuuk
 JUZ^Asia/Shanghai
 JVA^Indian/Antananarivo
 JVI^America/New_York
@@ -3868,7 +3886,7 @@ KBL^Asia/Kabul
 KBM^Pacific/Port_Moresby
 KBN^Africa/Lubumbashi
 KBO^Africa/Lubumbashi
-KBP^Europe/Kiev
+KBP^Europe/Kyiv
 KBQ^Africa/Blantyre
 KBR^Asia/Kuala_Lumpur
 KBS^Africa/Freetown
@@ -3887,13 +3905,14 @@ KCE^Australia/Brisbane
 KCF^Asia/Karachi
 KCG^America/Anchorage
 KCH^Asia/Kuching
+KCI^Asia/Dili
 KCJ^Pacific/Port_Moresby
 KCK^Asia/Irkutsk
 KCL^America/Anchorage
 KCM^Europe/Istanbul
 KCN^America/Adak
 KCO^Europe/Istanbul
-KCP^Europe/Kiev
+KCP^Europe/Kyiv
 KCQ^America/Anchorage
 KCR^America/Anchorage
 KCS^Australia/Darwin
@@ -3971,9 +3990,9 @@ KGK^America/Anchorage
 KGL^Africa/Kigali
 KGM^Pacific/Port_Moresby
 KGN^Africa/Kinshasa
-KGO^Europe/Zaporozhye
+KGO^Europe/Kyiv
 KGP^Asia/Yekaterinburg
-KGQ^America/Godthab
+KGQ^America/Nuuk
 KGR^Australia/Darwin
 KGS^Europe/Athens
 KGT^Asia/Shanghai
@@ -3986,7 +4005,7 @@ KGZ^America/Anchorage
 KHA^Asia/Tehran
 KHC^Europe/Simferopol
 KHD^Asia/Tehran
-KHE^Europe/Simferopol
+KHE^Europe/Kyiv
 KHG^Asia/Urumqi
 KHH^Asia/Taipei
 KHI^Asia/Karachi
@@ -3995,11 +4014,11 @@ KHK^Asia/Tehran
 KHM^Asia/Yangon
 KHN^Asia/Shanghai
 KHO^Africa/Johannesburg
-KHQ^America/Godthab
+KHQ^America/Nuuk
 KHR^Asia/Ulaanbaatar
 KHS^Asia/Muscat
 KHT^Asia/Kabul
-KHU^Europe/Kiev
+KHU^Europe/Kyiv
 KHV^Asia/Vladivostok
 KHW^Africa/Gaborone
 KHX^Africa/Kampala
@@ -4132,7 +4151,7 @@ KNO^Asia/Jakarta
 KNP^Africa/Luanda
 KNQ^Pacific/Noumea
 KNR^Asia/Tehran
-KNS^Australia/Currie
+KNS^Australia/Hobart
 KNT^America/Chicago
 KNU^Asia/Kolkata
 KNW^America/Anchorage
@@ -4203,7 +4222,7 @@ KRM^America/Guyana
 KRN^Europe/Stockholm
 KRO^Asia/Yekaterinburg
 KRP^Europe/Copenhagen
-KRQ^Europe/Zaporozhye
+KRQ^Europe/Kyiv
 KRR^Europe/Moscow
 KRS^Europe/Oslo
 KRT^Africa/Khartoum
@@ -4283,7 +4302,7 @@ KUO^Europe/Helsinki
 KUP^Pacific/Port_Moresby
 KUQ^Pacific/Port_Moresby
 KUR^Asia/Kabul
-KUS^America/Godthab
+KUS^America/Nuuk
 KUT^Asia/Tbilisi
 KUU^Asia/Kolkata
 KUV^Asia/Seoul
@@ -4309,7 +4328,7 @@ KWB^Asia/Jakarta
 KWD^Africa/Bangui
 KWE^Asia/Shanghai
 KWF^America/Juneau
-KWG^Europe/Zaporozhye
+KWG^Europe/Kyiv
 KWH^Asia/Kabul
 KWI^Asia/Kuwait
 KWJ^Asia/Seoul
@@ -4328,6 +4347,7 @@ KWX^Pacific/Port_Moresby
 KWY^Africa/Nairobi
 KWZ^Africa/Lubumbashi
 KXA^America/Metlakatla
+KXB^Asia/Makassar
 KXD^Asia/Yekaterinburg
 KXE^Africa/Johannesburg
 KXF^Pacific/Fiji
@@ -4597,7 +4617,7 @@ LLP^Australia/Brisbane
 LLQ^Asia/Shanghai
 LLS^America/Argentina/Cordoba
 LLT^Africa/Luanda
-LLU^America/Godthab
+LLU^America/Nuuk
 LLV^Asia/Shanghai
 LLW^Africa/Blantyre
 LLX^America/New_York
@@ -4734,6 +4754,7 @@ LSN^America/Los_Angeles
 LSO^Europe/Paris
 LSP^America/Caracas
 LSQ^America/Santiago
+LSR^America/Nome
 LSS^America/Guadeloupe
 LST^Australia/Hobart
 LSU^Asia/Kuching
@@ -4753,7 +4774,7 @@ LTK^Asia/Damascus
 LTL^Africa/Libreville
 LTM^America/Guyana
 LTN^Europe/London
-LTO^America/Hermosillo
+LTO^America/Mazatlan
 LTP^Australia/Brisbane
 LTQ^Europe/Paris
 LTR^Europe/Dublin
@@ -4811,7 +4832,7 @@ LWK^Europe/London
 LWL^America/Los_Angeles
 LWM^America/New_York
 LWN^Asia/Yerevan
-LWO^Europe/Uzhgorod
+LWO^Europe/Kyiv
 LWR^Europe/Amsterdam
 LWS^America/Los_Angeles
 LWT^America/Denver
@@ -5259,7 +5280,7 @@ MPS^America/Chicago
 MPT^Asia/Dili
 MPU^Pacific/Port_Moresby
 MPV^America/New_York
-MPW^Europe/Zaporozhye
+MPW^Europe/Kyiv
 MPX^Pacific/Port_Moresby
 MPY^America/Cayenne
 MPZ^America/Chicago
@@ -5454,7 +5475,7 @@ MXM^Indian/Antananarivo
 MXN^Europe/Paris
 MXO^America/Chicago
 MXP^Europe/Rome
-MXR^Europe/Kiev
+MXR^Europe/Kyiv
 MXS^Pacific/Apia
 MXT^Indian/Antananarivo
 MXU^Australia/Perth
@@ -5626,7 +5647,7 @@ NHG^Asia/Shanghai
 NHK^America/New_York
 NHS^Asia/Karachi
 NHT^Europe/London
-NHV^Pacific/Tahiti
+NHV^Pacific/Marquesas
 NHX^America/Chicago
 NHZ^America/New_York
 NIA^Africa/Monrovia
@@ -5639,7 +5660,7 @@ NIM^Africa/Niamey
 NIN^America/Anchorage
 NIO^Africa/Kinshasa
 NIP^America/New_York
-NIQ^America/Godthab
+NIQ^America/Nuuk
 NIR^America/Chicago
 NIS^Pacific/Port_Moresby
 NIT^Europe/Paris
@@ -5684,7 +5705,7 @@ NLP^Africa/Johannesburg
 NLS^Australia/Perth
 NLT^Asia/Urumqi
 NLU^America/Mexico_City
-NLV^Europe/Kiev
+NLV^Europe/Kyiv
 NMA^Asia/Tashkent
 NMB^Asia/Kolkata
 NMC^America/Nassau
@@ -5773,7 +5794,7 @@ NSL^America/Chicago
 NSM^Australia/Perth
 NSN^Pacific/Auckland
 NSO^Australia/Sydney
-NSQ^America/Godthab
+NSQ^America/Nuuk
 NST^Asia/Bangkok
 NSV^Australia/Brisbane
 NSX^America/Tortola
@@ -5906,7 +5927,7 @@ ODM^America/New_York
 ODN^Asia/Kuching
 ODO^Asia/Irkutsk
 ODR^Australia/Perth
-ODS^Europe/Simferopol
+ODS^Europe/Kyiv
 ODW^America/Los_Angeles
 ODY^Asia/Vientiane
 OEC^Asia/Dili
@@ -6039,6 +6060,7 @@ ONU^Pacific/Fiji
 ONX^America/Panama
 ONY^America/Chicago
 OOA^America/Chicago
+OOD^Australia/Perth
 OOK^America/Nome
 OOL^Australia/Brisbane
 OOM^Australia/Sydney
@@ -6171,7 +6193,7 @@ OYP^America/Cayenne
 OZA^America/Chicago
 OZC^Asia/Manila
 OZG^Africa/Casablanca
-OZH^Europe/Zaporozhye
+OZH^Europe/Kyiv
 OZI^Europe/Madrid
 OZL^Atlantic/Canary
 OZP^Europe/Madrid
@@ -6245,7 +6267,7 @@ PCR^America/Bogota
 PCS^America/Fortaleza
 PCT^America/New_York
 PCU^America/Chicago
-PCV^America/Hermosillo
+PCV^America/Mazatlan
 PCW^Europe/London
 PDA^America/Bogota
 PDB^America/Anchorage
@@ -6415,7 +6437,7 @@ PLR^America/Chicago
 PLS^America/Grand_Turk
 PLT^America/Bogota
 PLU^America/Sao_Paulo
-PLV^Europe/Zaporozhye
+PLV^Europe/Kyiv
 PLW^Asia/Makassar
 PLX^Asia/Almaty
 PLY^America/Indiana/Indianapolis
@@ -6521,7 +6543,7 @@ PQI^America/New_York
 PQM^America/Mexico_City
 PQQ^Australia/Sydney
 PQS^America/Nome
-PQT^America/Godthab
+PQT^America/Nuuk
 PRA^America/Argentina/Cordoba
 PRB^America/Los_Angeles
 PRC^America/Phoenix
@@ -6582,6 +6604,7 @@ PTH^America/Anchorage
 PTI^Australia/Brisbane
 PTJ^Australia/Melbourne
 PTK^America/Detroit
+PTL^America/Lima
 PTM^America/Caracas
 PTN^America/Chicago
 PTO^America/Sao_Paulo
@@ -6606,7 +6629,6 @@ PUI^Pacific/Port_Moresby
 PUJ^America/Santo_Domingo
 PUK^Pacific/Tahiti
 PUL^America/Los_Angeles
-PUM^Asia/Makassar
 PUN^Africa/Lubumbashi
 PUP^Africa/Ouagadougou
 PUQ^America/Punta_Arenas
@@ -6753,7 +6775,7 @@ QCQ^America/Sao_Paulo
 QCR^America/Sao_Paulo
 QCS^Europe/Rome
 QCT^Africa/Lagos
-QCU^America/Godthab
+QCU^America/Nuuk
 QCV^America/Sao_Paulo
 QCW^America/New_York
 QCX^America/Sao_Paulo
@@ -6807,36 +6829,36 @@ QEU^Africa/Dar_es_Salaam
 QEV^Europe/Paris
 QEW^Europe/London
 QEX^Europe/Berlin
-QEY^America/Godthab
+QEY^America/Nuuk
 QEZ^Europe/Rome
 QFA^Europe/Amsterdam
 QFB^Europe/Berlin
 QFC^Europe/Paris
 QFD^Africa/Algiers
 QFF^America/Chicago
-QFG^America/Godthab
+QFG^America/Nuuk
 QFH^Europe/Copenhagen
-QFI^America/Godthab
+QFI^America/Nuuk
 QFK^Europe/Oslo
 QFL^Europe/Berlin
 QFM^Africa/Cairo
-QFN^America/Godthab
+QFN^America/Nuuk
 QFO^Europe/London
 QFP^Europe/Berlin
 QFQ^Europe/Oslo
 QFR^Europe/Rome
 QFS^Indian/Comoro
-QFT^America/Godthab
+QFT^America/Nuuk
 QFU^Atlantic/Canary
 QFV^Europe/Oslo
 QFW^Asia/Shanghai
-QFX^America/Godthab
+QFX^America/Nuuk
 QFY^Asia/Tokyo
 QFZ^Europe/Berlin
 QGA^America/Sao_Paulo
 QGB^America/Sao_Paulo
 QGC^America/Sao_Paulo
-QGD^America/Sao_Paulo
+QGD^America/Santarem
 QGE^Africa/Algiers
 QGF^America/Sao_Paulo
 QGG^Africa/Tripoli
@@ -6849,7 +6871,7 @@ QGM^Africa/Algiers
 QGN^Europe/Madrid
 QGO^Europe/Rome
 QGP^America/Recife
-QGQ^America/Godthab
+QGQ^America/Nuuk
 QGR^America/Godthab
 QGS^America/Bahia
 QGT^Asia/Tokyo
@@ -6913,11 +6935,11 @@ QJA^Indian/Antananarivo
 QJB^Asia/Riyadh
 QJC^Asia/Thimphu
 QJD^Australia/Sydney
-QJE^America/Godthab
-QJF^America/Godthab
+QJE^America/Nuuk
+QJF^America/Nuuk
 QJG^America/Godthab
-QJH^America/Godthab
-QJI^America/Godthab
+QJH^America/Nuuk
+QJI^America/Nuuk
 QJJ^America/New_York
 QJK^Africa/Lagos
 QJL^Europe/Oslo
@@ -6928,7 +6950,7 @@ QJP^Asia/Seoul
 QJQ^Asia/Beirut
 QJR^Europe/Madrid
 QJS^Europe/Copenhagen
-QJT^America/Godthab
+QJT^America/Nuuk
 QJU^Asia/Kolkata
 QJV^Europe/Copenhagen
 QJW^Europe/Copenhagen
@@ -6953,7 +6975,7 @@ QKP^Africa/Johannesburg
 QKQ^Europe/Berlin
 QKR^America/Cayenne
 QKS^America/Denver
-QKT^America/Godthab
+QKT^America/Nuuk
 QKU^Europe/Berlin
 QKV^Asia/Tokyo
 QKW^Asia/Tokyo
@@ -6996,7 +7018,7 @@ QMG^Africa/Algiers
 QMH^Africa/Algiers
 QMI^Indian/Antananarivo
 QMJ^Asia/Tehran
-QMK^America/Godthab
+QMK^America/Nuuk
 QML^Asia/Karachi
 QMM^Europe/Rome
 QMN^Africa/Mbabane
@@ -7039,9 +7061,9 @@ QOB^Europe/Berlin
 QOC^America/Sao_Paulo
 QOD^Indian/Antananarivo
 QOE^Europe/Berlin
-QOF^Europe/Kiev
+QOF^Europe/Kyiv
 QOG^Europe/Berlin
-QOH^Europe/Kiev
+QOH^Europe/Kyiv
 QOI^Indian/Antananarivo
 QOJ^America/Sao_Paulo
 QOK^Europe/Oslo
@@ -7050,7 +7072,7 @@ QOM^Asia/Tokyo
 QON^Europe/Brussels
 QOO^Asia/Tokyo
 QOP^Europe/Rome
-QOQ^America/Godthab
+QOQ^America/Nuuk
 QOT^Asia/Tokyo
 QOU^Africa/Algiers
 QOV^America/Santiago
@@ -7079,7 +7101,7 @@ QPS^America/Sao_Paulo
 QPT^Europe/Amsterdam
 QPU^Indian/Antananarivo
 QPV^Australia/Sydney
-QPW^America/Godthab
+QPW^America/Nuuk
 QPX^Asia/Manila
 QPY^Asia/Manila
 QPZ^Europe/Rome
@@ -7132,7 +7154,7 @@ QRU^America/Sao_Paulo
 QRV^Europe/Paris
 QRW^Africa/Lagos
 QRX^Australia/Sydney
-QRY^America/Godthab
+QRY^America/Nuuk
 QRZ^Europe/Amsterdam
 QSA^Europe/Madrid
 QSB^America/Sao_Paulo
@@ -7143,7 +7165,7 @@ QSF^Africa/Algiers
 QSG^Europe/Copenhagen
 QSH^Europe/Berlin
 QSI^Africa/Dar_es_Salaam
-QSJ^America/Cuiaba
+QSJ^Asia/Shanghai
 QSK^Africa/Algiers
 QSL^Africa/Lagos
 QSM^Europe/Berlin
@@ -7186,7 +7208,7 @@ QUA^Europe/Berlin
 QUB^Africa/Tripoli
 QUC^America/Caracas
 QUD^Africa/Cairo
-QUE^America/Godthab
+QUE^America/Nuuk
 QUG^Europe/London
 QUH^Africa/Cairo
 QUI^America/Santiago
@@ -7196,14 +7218,14 @@ QUL^Europe/Berlin
 QUM^Asia/Tehran
 QUN^Asia/Seoul
 QUO^Africa/Lagos
-QUP^America/Godthab
+QUP^America/Nuuk
 QUQ^Europe/Madrid
 QUR^Indian/Antananarivo
 QUS^Africa/Lagos
 QUT^Asia/Tokyo
 QUU^Asia/Seoul
-QUV^America/Godthab
-QUW^America/Godthab
+QUV^America/Nuuk
+QUW^America/Nuuk
 QUX^Europe/Paris
 QUY^Europe/London
 QUZ^Atlantic/Canary
@@ -7349,7 +7371,7 @@ RAR^Pacific/Rarotonga
 RAS^Asia/Tehran
 RAT^Asia/Yekaterinburg
 RAV^America/Bogota
-RAW^Pacific/Port_Moresby
+RAW^Pacific/Bougainville
 RAX^Pacific/Port_Moresby
 RAZ^Asia/Karachi
 RBA^Africa/Casablanca
@@ -7576,6 +7598,7 @@ RPB^Australia/Darwin
 RPM^Australia/Darwin
 RPN^Asia/Jerusalem
 RPR^Asia/Kolkata
+RPU^America/Manaus
 RPV^Australia/Darwin
 RPX^America/Denver
 RPZ^Europe/Warsaw
@@ -7613,6 +7636,7 @@ RTA^Pacific/Fiji
 RTB^America/Tegucigalpa
 RTC^Asia/Kolkata
 RTD^America/New_York
+RTE^America/Sao_Paulo
 RTG^Asia/Makassar
 RTI^Asia/Makassar
 RTL^America/Chicago
@@ -7620,7 +7644,7 @@ RTM^Europe/Amsterdam
 RTN^America/Denver
 RTP^Australia/Brisbane
 RTS^Australia/Perth
-RTW^Europe/Volgograd
+RTW^Europe/Saratov
 RTY^Australia/Adelaide
 RUA^Africa/Kampala
 RUD^Asia/Tehran
@@ -7658,7 +7682,7 @@ RWA^Europe/Warsaw
 RWF^America/Chicago
 RWI^America/New_York
 RWL^America/Denver
-RWN^Europe/Kiev
+RWN^Europe/Kyiv
 RWP^Asia/Karachi
 RXA^Asia/Aden
 RXE^America/Boise
@@ -7686,7 +7710,7 @@ SAE^Asia/Makassar
 SAF^America/Denver
 SAG^America/Anchorage
 SAH^Asia/Aden
-SAI^Europe/San_Marino
+SAI^Asia/Phnom_Penh
 SAJ^Europe/Madrid
 SAK^Atlantic/Reykjavik
 SAL^America/El_Salvador
@@ -7799,7 +7823,7 @@ SEQ^Asia/Pontianak
 SER^America/Indiana/Indianapolis
 SET^America/Recife
 SEU^Africa/Dar_es_Salaam
-SEV^Europe/Zaporozhye
+SEV^Europe/Kyiv
 SEW^Africa/Cairo
 SEY^Africa/Nouakchott
 SEZ^Indian/Mahe
@@ -7811,7 +7835,7 @@ SFE^Asia/Manila
 SFF^America/Los_Angeles
 SFG^America/Marigot
 SFH^America/Tijuana
-SFJ^America/Godthab
+SFJ^America/Nuuk
 SFK^America/Belem
 SFL^Atlantic/Cape_Verde
 SFM^America/New_York
@@ -8018,7 +8042,7 @@ SNL^America/Chicago
 SNM^America/La_Paz
 SNN^Europe/Dublin
 SNO^Asia/Bangkok
-SNP^America/Adak
+SNP^America/Anchorage
 SNQ^America/Tijuana
 SNR^Europe/Paris
 SNS^America/Los_Angeles
@@ -8125,6 +8149,7 @@ SRQ^America/New_York
 SRR^Australia/Brisbane
 SRS^America/Bogota
 SRT^Africa/Kampala
+SRU^Asia/Yangon
 SRV^America/Anchorage
 SRW^America/New_York
 SRX^Africa/Tripoli
@@ -8167,7 +8192,7 @@ STI^America/Santo_Domingo
 STJ^America/Chicago
 STK^America/Denver
 STL^America/Chicago
-STM^America/Manaus
+STM^America/Santarem
 STN^Europe/London
 STO^Europe/Stockholm
 STP^America/Chicago
@@ -8261,7 +8286,6 @@ SXB^Europe/Paris
 SXC^America/Los_Angeles
 SXD^Europe/Paris
 SXE^Australia/Melbourne
-SXF^Europe/Berlin
 SXG^Africa/Lusaka
 SXH^Pacific/Port_Moresby
 SXI^Asia/Tehran
@@ -8378,6 +8402,7 @@ TBT^America/Porto_Velho
 TBU^Pacific/Tongatapu
 TBV^Pacific/Majuro
 TBW^Europe/Moscow
+TBX^Asia/Jakarta
 TBY^Africa/Gaborone
 TBZ^Asia/Tehran
 TCA^Australia/Darwin
@@ -8639,7 +8664,7 @@ TNH^Asia/Shanghai
 TNI^Asia/Kolkata
 TNJ^Asia/Jakarta
 TNK^America/Nome
-TNL^Europe/Uzhgorod
+TNL^Europe/Kyiv
 TNM^Antarctica/Palmer
 TNN^Asia/Taipei
 TNO^America/Costa_Rica
@@ -8663,7 +8688,7 @@ TOG^America/Anchorage
 TOH^Pacific/Efate
 TOI^America/Chicago
 TOJ^Europe/Madrid
-TOK^Pacific/Port_Moresby
+TOK^Pacific/Bougainville
 TOL^America/New_York
 TOM^Africa/Bamako
 TON^Pacific/Bougainville
@@ -8699,9 +8724,9 @@ TPT^Africa/Monrovia
 TPU^Asia/Kathmandu
 TPX^Pacific/Tahiti
 TPY^Europe/Rome
-TQA^America/Godthab
+TQA^America/Nuuk
 TQD^Asia/Baghdad
-TQI^America/Godthab
+TQI^America/Nuuk
 TQL^Asia/Yekaterinburg
 TQN^Asia/Kabul
 TQP^Australia/Brisbane
@@ -8726,6 +8751,7 @@ TRO^Australia/Sydney
 TRQ^America/Eirunepe
 TRR^Asia/Colombo
 TRS^Europe/Rome
+TRT^Asia/Makassar
 TRU^America/Lima
 TRV^Asia/Kolkata
 TRW^Pacific/Tarawa
@@ -8838,6 +8864,7 @@ TXR^Australia/Brisbane
 TXU^Africa/Abidjan
 TYA^Europe/Moscow
 TYB^Australia/Sydney
+TYC^Asia/Shanghai
 TYD^Asia/Yakutsk
 TYE^America/Anchorage
 TYF^Europe/Stockholm
@@ -8863,7 +8890,7 @@ UAC^America/Hermosillo
 UAE^Pacific/Port_Moresby
 UAH^Pacific/Marquesas
 UAI^Asia/Dili
-UAK^America/Godthab
+UAK^America/Nuuk
 UAL^Africa/Luanda
 UAM^Pacific/Guam
 UAP^Pacific/Marquesas
@@ -8885,7 +8912,7 @@ UBW^Europe/London
 UCB^Asia/Shanghai
 UCC^America/Los_Angeles
 UCE^America/Chicago
-UCK^Europe/Uzhgorod
+UCK^Europe/Kyiv
 UCN^Africa/Monrovia
 UCT^Europe/Moscow
 UCY^America/Chicago
@@ -8893,7 +8920,7 @@ UDA^Australia/Brisbane
 UDD^America/Los_Angeles
 UDE^Europe/Amsterdam
 UDI^America/Sao_Paulo
-UDJ^Europe/Uzhgorod
+UDJ^Europe/Kyiv
 UDN^Europe/Rome
 UDR^Asia/Kolkata
 UEE^Australia/Hobart
@@ -8967,7 +8994,7 @@ ULY^Europe/Ulyanovsk
 ULZ^Asia/Hovd
 UMA^America/Havana
 UMC^Pacific/Port_Moresby
-UMD^America/Godthab
+UMD^America/Nuuk
 UME^Europe/Stockholm
 UMI^America/Lima
 UMM^America/Anchorage
@@ -8975,7 +9002,7 @@ UMR^Australia/Adelaide
 UMS^Asia/Vladivostok
 UMT^America/Anchorage
 UMU^America/Sao_Paulo
-UMY^Europe/Kiev
+UMY^Europe/Kyiv
 UMZ^America/Chicago
 UNA^America/Bahia
 UNC^America/Bogota
@@ -8996,7 +9023,7 @@ UPB^America/Havana
 UPC^Atlantic/Canary
 UPF^Europe/Berlin
 UPG^Asia/Makassar
-UPK^America/Godthab
+UPK^America/Nuuk
 UPL^America/Costa_Rica
 UPN^America/Mexico_City
 UPP^Pacific/Honolulu
@@ -9162,7 +9189,7 @@ VIH^America/Chicago
 VII^Asia/Bangkok
 VIJ^America/Tortola
 VIL^Africa/Casablanca
-VIN^Europe/Kiev
+VIN^Europe/Kyiv
 VIO^Europe/Madrid
 VIQ^Asia/Dili
 VIR^Africa/Johannesburg
@@ -9244,7 +9271,7 @@ VRY^Europe/Oslo
 VSA^America/Merida
 VSE^Europe/Lisbon
 VSF^America/New_York
-VSG^Europe/Zaporozhye
+VSG^Europe/Kyiv
 VSN^Europe/Amsterdam
 VSO^Asia/Ho_Chi_Minh
 VST^Europe/Stockholm
@@ -9353,6 +9380,8 @@ WGT^Australia/Melbourne
 WGU^Pacific/Port_Moresby
 WGY^Africa/Libreville
 WGZ^Australia/Sydney
+WHA^Asia/Shanghai
+WHB^Australia/Perth
 WHD^America/Metlakatla
 WHF^Africa/Khartoum
 WHK^Pacific/Auckland
@@ -9384,7 +9413,7 @@ WKI^Africa/Harare
 WKJ^Asia/Tokyo
 WKK^America/Anchorage
 WKL^Pacific/Honolulu
-WKN^Pacific/Port_Moresby
+WKN^Pacific/Bougainville
 WKR^America/Nassau
 WLA^Australia/Perth
 WLC^Australia/Sydney
@@ -9639,9 +9668,9 @@ XEK^America/Regina
 XEL^America/Toronto
 XEM^America/Moncton
 XEN^Asia/Shanghai
-XEO^America/Godthab
+XEO^America/Nuuk
 XEP^Europe/Paris
-XEQ^America/Godthab
+XEQ^America/Nuuk
 XER^Europe/Paris
 XES^America/Chicago
 XET^Europe/Berlin
@@ -9737,7 +9766,7 @@ XIM^America/Toronto
 XIN^Asia/Shanghai
 XIO^America/Toronto
 XIP^America/Toronto
-XIQ^America/Godthab
+XIQ^America/Nuuk
 XIR^Europe/Berlin
 XIS^America/Sao_Paulo
 XIT^Europe/Berlin
@@ -10234,7 +10263,7 @@ YEB^America/Toronto
 YEC^Asia/Seoul
 YED^America/Edmonton
 YEG^America/Edmonton
-YEH^Asia/Shanghai
+YEH^Asia/Tehran
 YEI^Europe/Istanbul
 YEK^America/Rankin_Inlet
 YEL^America/Toronto
@@ -10264,7 +10293,7 @@ YFT^Asia/Macau
 YFX^America/St_Johns
 YGA^America/Montreal
 YGB^America/Vancouver
-YGC^America/Vancouver
+YGC^America/Edmonton
 YGE^America/Vancouver
 YGG^America/Vancouver
 YGH^America/Yellowknife
@@ -10372,7 +10401,7 @@ YLP^America/Toronto
 YLQ^America/Toronto
 YLR^America/Winnipeg
 YLS^America/Toronto
-YLT^America/Pangnirtung
+YLT^America/Iqaluit
 YLV^Asia/Baku
 YLW^America/Vancouver
 YLX^Asia/Shanghai
@@ -10472,7 +10501,7 @@ YQN^America/Toronto
 YQQ^America/Vancouver
 YQR^America/Regina
 YQS^America/Toronto
-YQT^America/Thunder_Bay
+YQT^America/Toronto
 YQU^America/Edmonton
 YQV^America/Regina
 YQW^America/Regina
@@ -10556,8 +10585,8 @@ YVE^America/Vancouver
 YVG^America/Edmonton
 YVH^Europe/Oslo
 YVK^Europe/Oslo
-YVM^America/Pangnirtung
-YVN^America/Pangnirtung
+YVM^America/Iqaluit
+YVN^America/Iqaluit
 YVO^America/Toronto
 YVP^America/Toronto
 YVQ^America/Yellowknife
@@ -10588,7 +10617,7 @@ YXJ^America/Dawson_Creek
 YXK^America/Toronto
 YXL^America/Winnipeg
 YXN^America/Rankin_Inlet
-YXP^America/Pangnirtung
+YXP^America/Iqaluit
 YXQ^America/Whitehorse
 YXR^America/Toronto
 YXS^America/Vancouver
@@ -10812,7 +10841,7 @@ ZGW^Europe/Berlin
 ZGX^Europe/Copenhagen
 ZGY^Asia/Kuching
 ZGZ^Europe/Berlin
-ZHA^Asia/Urumqi
+ZHA^Asia/Shanghai
 ZHB^Europe/Zurich
 ZHC^America/New_York
 ZHD^Europe/Zurich
@@ -11135,7 +11164,7 @@ ZTN^America/New_York
 ZTO^America/New_York
 ZTP^America/Sao_Paulo
 ZTQ^Europe/Zurich
-ZTR^Europe/Kiev
+ZTR^Europe/Kyiv
 ZTS^America/Vancouver
 ZTT^Europe/Berlin
 ZTU^Asia/Baku
@@ -11280,7 +11309,6 @@ ZZM^Africa/Algiers
 ZZN^Europe/Oslo
 ZZO^Asia/Sakhalin
 ZZP^Europe/Belgrade
-ZZQ^Asia/Hong_Kong
 ZZR^Africa/Algiers
 ZZS^Africa/Algiers
 ZZT^Africa/Algiers

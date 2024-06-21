@@ -98,7 +98,7 @@ GF^America/Cayenne
 GG^Europe/Guernsey
 GH^Africa/Accra
 GI^Europe/Gibraltar
-GL1^America/Godthab
+GL1^America/Nuuk
 GL2^America/Thule
 GL3^America/Scoresbysund
 GM^Africa/Banjul
@@ -135,7 +135,7 @@ KG^Asia/Bishkek
 KH^Asia/Phnom_Penh
 KI1^Pacific/Tarawa
 KI2^Pacific/Kiritimati
-KI3^Pacific/Enderbury
+KI3^Pacific/Kanton
 KM^Indian/Comoro
 KN^America/St_Kitts
 KP^Asia/Pyongyang
@@ -161,7 +161,7 @@ MD^Europe/Chisinau
 ME^Europe/Podgorica
 MF^America/Marigot
 MG^Indian/Antananarivo
-MH^Pacific/Majuro
+MH^Pacific/Kwajalein
 MK^Europe/Skopje
 ML^Africa/Bamako
 MM^Asia/Yangon
@@ -237,7 +237,7 @@ SI^Europe/Ljubljana
 SJ^Arctic/Longyearbyen
 SK^Europe/Bratislava
 SL^Africa/Freetown
-SM^Europe/San_Marino
+SM^Asia/Phnom_Penh
 SN^Africa/Dakar
 SO^Africa/Mogadishu
 SR^America/Paramaribo
@@ -261,7 +261,7 @@ TT^America/Port_of_Spain
 TV^Pacific/Funafuti
 TW^Asia/Taipei
 TZ^Africa/Dar_es_Salaam
-UA^Europe/Kiev
+UA^Europe/Kyiv
 UG^Africa/Kampala
 UM2^Pacific/Midway
 UM3^Pacific/Wake
